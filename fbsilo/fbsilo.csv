@@ -1,0 +1,931 @@
+Brand,Model,Launch Date,Price,Ground Type,Material,Weight,Players
+,,,,,,,Nike,HyperVenom Phantom II,2016-02-07,275$,"['AG', 'FG', 'SG']",SYNTHETIC,209g,"['NEYMAR,', 'WELBECK,', 'LEWANDOWSKI,', 'ISCO']"
+Nike,HyperVenom Phantom II Neymar,2016-02-02,300$,"['AG', 'FG', 'SG']",SYNTHETIC,209g,['NEYMAR']
+Nike,HyperVenom Phantom II,2015-09-28,275$,"['AG', 'FG', 'SG']",SYNTHETIC,209g,"['NEYMAR,', 'WELBECK,', 'LEWANDOWSKI,', 'ISCO']"
+Nike,HyperVenom Phantom II,2015-12-02,275$,"['AG', 'FG', 'SG']",SYNTHETIC,209g,"['NEYMAR,', 'WELBECK,', 'LEWANDOWSKI,', 'ISCO']"
+Nike,HyperVenom Phantom II Women's,2016-02-01,275$,"['AG', 'FG', 'SG']",SYNTHETIC,209g,['NEYMAR']
+Nike,HyperVenom Phantom II,2016-03-27,275$,"['AG', 'FG', 'SG']",SYNTHETIC,209g,"['NEYMAR,', 'WELBECK,', 'LEWANDOWSKI,', 'ISCO']"
+Nike,Hypervenom Phantom II,2016-05-28,275$,"['AG', 'FG', 'SG']",SYNTHETIC,209g,"['NEYMAR,', 'WELBECK,', 'LEWANDOWSKI,', 'ISCO']"
+Nike,Tiempo Legend VI,2015-12-01,210$,"['AG', 'FG', 'HG', 'SG']",KANGAROO,244g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Nike,Tiempo Legend VI,2016-02-09,210$,"['AG', 'FG', 'HG', 'SG']",KANGAROO,244g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Nike,Hypervenom Phantom II,2016-05-28,275$,"['AG', 'FG', 'SG']",SYNTHETIC,209g,"['NEYMAR,', 'WELBECK,', 'LEWANDOWSKI,', 'ISCO']"
+Nike,Hypervenom Phantom II,2016-05-28,275$,"['AG', 'FG', 'SG']",SYNTHETIC,209g,"['NEYMAR,', 'WELBECK,', 'LEWANDOWSKI,', 'ISCO']"
+Nike,Tiempo Legend VI,2015-12-01,210$,"['AG', 'FG', 'HG', 'SG']",KANGAROO,244g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Nike,Tiempo Legend VI,2016-02-09,210$,"['AG', 'FG', 'HG', 'SG']",KANGAROO,244g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Nike,Tiempo Legend VI,2015-12-22,210$,"['AG', 'FG', 'HG', 'SG']",KANGAROO,244g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Nike,Tiempo Legend VI Women's,2016-02-01,210$,"['AG', 'FG', 'HG', 'SG']",KANGAROO,244g,"[""JULIE JOHNSTON'S""]"
+Nike,Tiempo Legend VI Women's,2016-03-15,210$,"['AG', 'FG', 'HG', 'SG']",KANGAROO,244g,"[""JULIE JOHNSTON'S""]"
+Nike,Tiempo Legend VI,2016-03-27,210$,"['AG', 'FG', 'HG', 'SG']",KANGAROO,244g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Nike,Tiempo Legend VI,2016-05-28,210$,"['AG', 'FG', 'HG', 'SG']",KANGAROO,244g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Nike,Tiempo Legend VI,2016-08-16,210$,"['AG', 'FG', 'HG', 'SG']",KANGAROO,244g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Nike,Mercurial Superfly,2016-02-09,275$,"['AG', 'FG', 'SG']",KNIT,200g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Mercurial Superfly,2015-04-25,275$,"['AG', 'FG', 'SG']",KNIT,200g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Mercurial Superfly,2015-05-27,275$,"['AG', 'FG', 'SG']",KNIT,200g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Mercurial Superfly,2014-12-01,275$,"['AG', 'FG', 'SG']",KNIT,200g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Mercurial Superfly,2014-08-21,275$,"['AG', 'FG', 'SG']",KNIT,200g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Mercurial Superfly,2015-09-28,275$,"['AG', 'FG', 'SG']",KNIT,200g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Mercurial Superfly,2015-12-02,275$,"['AG', 'FG', 'SG']",KNIT,200g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Mercurial Superfly,2015-03-27,275$,"['AG', 'FG', 'SG']",KNIT,200g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Tiempo Legend VI,2015-12-22,210$,"['AG', 'FG', 'HG', 'SG']",KANGAROO,244g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Nike,Tiempo Legend VI Women's,2016-02-01,210$,"['AG', 'FG', 'HG', 'SG']",KANGAROO,244g,"[""JULIE JOHNSTON'S""]"
+Nike,Tiempo Legend VI Women's,2016-03-15,210$,"['AG', 'FG', 'HG', 'SG']",KANGAROO,244g,"[""JULIE JOHNSTON'S""]"
+Nike,Tiempo Legend VI,2015-12-22,210$,"['AG', 'FG', 'HG', 'SG']",KANGAROO,244g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Nike,Tiempo Legend VI,2015-12-22,210$,"['AG', 'FG', 'HG', 'SG']",KANGAROO,244g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Nike,Tiempo Legend VI Women's,2016-02-01,210$,"['AG', 'FG', 'HG', 'SG']",KANGAROO,244g,"[""JULIE JOHNSTON'S""]"
+Nike,Tiempo Legend VI Women's,2016-03-15,210$,"['AG', 'FG', 'HG', 'SG']",KANGAROO,244g,"[""JULIE JOHNSTON'S""]"
+Nike,Tiempo Legend VI,2016-03-27,210$,"['AG', 'FG', 'HG', 'SG']",KANGAROO,244g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Nike,Tiempo Legend VI,2016-05-28,210$,"['AG', 'FG', 'HG', 'SG']",KANGAROO,244g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Nike,Tiempo Legend VI,2016-08-16,210$,"['AG', 'FG', 'HG', 'SG']",KANGAROO,244g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Nike,Mercurial Superfly,2016-02-09,275$,"['AG', 'FG', 'SG']",KNIT,200g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Mercurial Superfly,2015-04-25,275$,"['AG', 'FG', 'SG']",KNIT,200g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Mercurial Superfly,2015-05-27,275$,"['AG', 'FG', 'SG']",KNIT,200g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Mercurial Superfly,2014-12-01,275$,"['AG', 'FG', 'SG']",KNIT,200g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Mercurial Superfly,2014-08-21,275$,"['AG', 'FG', 'SG']",KNIT,200g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Mercurial Superfly,2015-09-28,275$,"['AG', 'FG', 'SG']",KNIT,200g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Mercurial Superfly,2015-12-02,275$,"['AG', 'FG', 'SG']",KNIT,200g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Mercurial Superfly,2015-03-27,275$,"['AG', 'FG', 'SG']",KNIT,200g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Mercurial Superfly,2015-07-19,275$,"['AG', 'FG', 'SG']",KNIT,200g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Mercurial Superfly,2015-02-05,275$,"['AG', 'FG', 'SG']",KNIT,200g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Mercurial Superfly,2014-09-25,275$,"['AG', 'FG', 'SG']",KNIT,200g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Mercurial Superfly CR7,2015-03-20,300$,"['AG', 'FG', 'SG']",KNIT,200g,['CHRISTIANO RONALDO']
+Nike,Mercurial Superfly CR7,2014-10-23,300$,"['AG', 'FG', 'SG']",KNIT,200g,['CHRISTIANO RONALDO']
+Nike,Mercurial Superfly CR7,2015-10-29,300$,"['AG', 'FG', 'SG']",KNIT,200g,['CHRISTIANO RONALDO']
+Nike,Mercurial Superfly Women's,2016-02-01,275$,['FG'],KNIT,200g,[None]
+Nike,Mercurial Superfly Leather,2015-08-13,285$,"['AG', 'FG', 'SG']",KANGAROO,200g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,HyperVenom Phantom II Leather,2015-11-12,290$,"['AG', 'FG', 'SG']",KANGAROO,209g,"['NEYMAR,', 'WELBECK,', 'LEWANDOWSKI,', 'ISCO']"
+Nike,Mercurial Superfly BHM,2015-01-29,285$,"['AG', 'FG', 'SG']",KNIT,200g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Mercurial Superfly CR7 Rare Gold,2015-01-12,0$,['SG'],KNIT,200g,['CHRISTIANO RONALDO']
+Nike,Magista Obra,2015-04-25,275$,"['AG', 'FG', 'SG']","SYNTHETIC,",205g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,Magista Obra,2015-04-25,275$,"['AG', 'FG', 'SG']","SYNTHETIC,",205g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,Magista Obra,2015-12-02,275$,"['AG', 'FG', 'SG']","SYNTHETIC,",205g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,Magista Obra,2015-05-27,275$,"['AG', 'FG', 'SG']","SYNTHETIC,",205g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,Magista Obra,2014-12-01,275$,"['AG', 'FG', 'SG']","SYNTHETIC,",205g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,Magista Obra,2014-09-25,275$,"['AG', 'FG', 'SG']","SYNTHETIC,",205g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,Magista Obra,2015-09-28,275$,"['AG', 'FG', 'SG']","SYNTHETIC,",205g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,Magista Obra,2015-02-05,275$,"['AG', 'FG', 'SG']","SYNTHETIC,",205g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,Magista Obra,2015-07-17,275$,"['AG', 'FG', 'SG']","SYNTHETIC,",205g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,Magista Obra,2016-02-09,275$,"['AG', 'FG', 'SG']","SYNTHETIC,",205g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,Magista Obra,2014-07-12,275$,"['AG', 'FG', 'SG']","SYNTHETIC,",205g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,Magista Obra,2015-03-27,275$,"['AG', 'FG', 'SG']","SYNTHETIC,",205g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,Magista Obra Women's,2016-02-01,275$,['FG'],"SYNTHETIC,",205g,[None]
+Nike,Magista Obra Women's,2015-07-04,275$,['FG'],"SYNTHETIC,",205g,[None]
+Nike,Magista Obra Leather,2015-08-11,290$,"['AG', 'FG', 'SG']",KANGAROO,205g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,Magista Obra Leather,2015-11-12,290$,"['AG', 'FG', 'SG']",KANGAROO,205g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,Magista Obra BHM,2016-02-12,275$,"['AG', 'FG', 'SG']","SYNTHETIC,",205g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,MagistaX Proximo IC,2015-12-21,150$,['IN'],KNIT,0g,[None]
+Nike,MagistaX Proximo IC,2015-12-02,150$,['IN'],KNIT,0g,[None]
+Nike,MagistaX Proximo IC,2015-06-23,150$,['IN'],KNIT,0g,[None]
+Nike,MagistaX Proximo IC,2015-09-21,150$,['IN'],KNIT,0g,[None]
+Nike,MagistaX Proximo IC,2015-10-05,150$,['IN'],KNIT,0g,[None]
+Nike,MagistaX Proximo IC,2015-04-01,150$,['IN'],KNIT,0g,[None]
+Nike,MagistaX Proximo IC,2015-06-29,150$,['IN'],KNIT,0g,[None]
+Nike,MagistaX Proximo IC,2015-04-01,150$,['IN'],KNIT,0g,[None]
+Nike,MercurialX Proximo,2015-12-21,150$,"['IN', 'TF']",KNIT,0g,[None]
+Nike,MercurialX Proximo,2015-06-23,150$,"['IN', 'TF']",KNIT,0g,[None]
+Nike,MercurialX Proximo,2015-10-05,150$,"['IN', 'TF']",KNIT,0g,[None]
+Nike,MercurialX Proximo,2015-09-28,150$,"['IN', 'TF']",KNIT,0g,[None]
+Nike,MercurialX Proximo,2015-12-02,150$,"['IN', 'TF']",KNIT,0g,[None]
+Nike,MercurialX Proximo,2015-04-01,150$,"['IN', 'TF']",KNIT,0g,[None]
+Nike,MercurialX Proximo,2015-04-01,150$,"['IN', 'TF']",KNIT,0g,[None]
+Nike,MercurialX Proximo,2015-06-29,150$,"['IN', 'TF']",KNIT,0g,[None]
+Nike,HypervenomX Proximo,2015-10-05,150$,"['IN', 'TF']",SYNTHETIC,0g,[None]
+Nike,HypervenomX Proximo,2015-06-23,150$,"['IN', 'TF']",SYNTHETIC,0g,[None]
+Nike,HypervenomX Proximo,2015-12-21,150$,"['IN', 'TF']",SYNTHETIC,0g,[None]
+Nike,HypervenomX Proximo,2015-09-28,150$,"['IN', 'TF']",SYNTHETIC,0g,[None]
+Nike,HypervenomX Proximo,2015-12-02,150$,"['IN', 'TF']",SYNTHETIC,0g,[None]
+Nike,HypervenomX Proximo,2015-06-29,150$,"['IN', 'TF']",SYNTHETIC,0g,[None]
+Nike,MercurialX Proximo,2015-04-17,150$,"['IN', 'TF']",KNIT,0g,[None]
+Nike,MercurialX Proximo CR7,2015-10-29,160$,"['IN', 'TF']",KNIT,0g,[None]
+Nike,HypervenomX Proximo Neymar,2016-02-02,150$,['IN'],KNIT,0g,[None]
+Nike,Elastico Superfly,2014-10-09,150$,"['IN', 'TF']","SYNTHETIC,",238g,[None]
+Nike,Elastico Superfly,2014-10-09,150$,"['IN', 'TF']","SYNTHETIC,",238g,[None]
+Nike,Elastico Superfly,2014-10-09,150$,"['IN', 'TF']","SYNTHETIC,",238g,[None]
+Nike,Elastico Superfly,2014-10-09,150$,"['IN', 'TF']","SYNTHETIC,",238g,[None]
+Nike,Elastico Superfly,2014-10-09,150$,"['IN', 'TF']","SYNTHETIC,",238g,[None]
+Nike,Elastico Superfly,2014-10-09,150$,"['IN', 'TF']","SYNTHETIC,",238g,[None]
+Nike,Mercurial Superfly Leather,2016-03-01,285$,"['AG', 'FG', 'SG']",KANGAROO,200g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,HyperVenom Phantom II Leather,2016-03-01,300$,"['AG', 'FG', 'SG']",KANGAROO,209g,"['NEYMAR,', 'WELBECK,', 'LEWANDOWSKI,', 'ISCO']"
+Nike,Magista Obra Leather,2016-03-01,290$,"['AG', 'FG', 'SG']",KANGAROO,205g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,Mercurial Superfly Leave Your Legacy,2016-01-23,285$,['FG'],KNIT,200g,['CARLI LLOYD']
+Nike,Mercurial Superfly CR7 324K Gold,2016-01-01,0$,['FG'],KNIT,200g,['CHRISTIANO RONALDO']
+Nike,Mercurial Superfly CR7 Quinhentos,2016-03-04,0$,['FG'],KNIT,200g,['CHRISTIANO RONALDO']
+Nike,Hypervenom Phantom II,2015-09-22,275$,"['AG', 'FG', 'SG']",SYNTHETIC,209g,"['NEYMAR,', 'WELBECK,', 'LEWANDOWSKI,', 'ISCO']"
+Nike,Mercurial Superfly Women's,2016-03-15,275$,['FG'],KNIT,200g,[None]
+Nike,Mercurial Superfly,2016-03-27,275$,"['AG', 'FG', 'SG']",KNIT,200g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Magista Obra,2016-03-27,275$,"['AG', 'FG', 'SG']","SYNTHETIC,",205g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,Magista Obra Women's,2016-03-15,275$,['FG'],"SYNTHETIC,",205g,[None]
+Nike,HypervenomX Proximo IC,2016-05-28,150$,['IN'],SYNTHETIC,0g,[None]
+Nike,HypervenomX Proximo,2016-03-27,150$,"['IN', 'TF']",SYNTHETIC,0g,[None]
+Nike,HypervenomX Proximo IC,2016-04-21,150$,['IN'],SYNTHETIC,0g,[None]
+Nike,MercurialX Proximo,2016-03-27,150$,"['IN', 'TF']",KNIT,0g,[None]
+Nike,MercurialX Proximo IC,2016-04-21,150$,['IN'],KNIT,0g,[None]
+Nike,MagistaX Proximo IC,2016-04-21,150$,['IN'],KNIT,0g,[None]
+Nike,Tiempo Legend VI,2016-03-07,210$,"['AG', 'FG', 'HG', 'SG']",KANGAROO,244g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Nike,HypervenomX Proximo IC,2016-07-05,150$,['IN'],SYNTHETIC,0g,[None]
+Puma,evoPOWER 1.3,2016-01-14,220$,"['AG', 'FG', 'SG']",SYNTHETIC,205g,"['FABREGAS,', 'BALOTELLI,', 'GIROUD,', 'YAYA TOURE.TOURE']"
+Puma,evoPOWER 1.3,2016-02-14,220$,"['AG', 'FG', 'SG']",SYNTHETIC,205g,"['FABREGAS,', 'BALOTELLI,', 'GIROUD,', 'YAYA TOURE.TOURE']"
+Puma,evoPOWER 1.3 Leather,2016-01-14,225$,"['AG', 'FG', 'SG']",KANGAROO,205g,"['FABREGAS,', 'BALOTELLI,', 'GIROUD,', 'YAYA TOURE.TOURE']"
+Puma,evoPOWER 1.3 Leather,2016-02-14,225$,"['AG', 'FG', 'SG']",KANGAROO,205g,"['FABREGAS,', 'BALOTELLI,', 'GIROUD,', 'YAYA TOURE.TOURE']"
+Puma,evoPOWER 1.3 Camo,2016-01-14,250$,"['AG', 'FG', 'SG']",SYNTHETIC,205g,"['FABREGAS,', 'BALOTELLI,', 'GIROUD,', 'YAYA TOURE.TOURE']"
+Adidas,ACE 15.1,2015-05-25,220$,"['AG', 'FG', 'SG']",SYNTHETIC,252g,"['FERNANDO TORRES,', 'XABI ALONSO,', 'MESUT OZIL,', 'MANUEL NEUER,', 'JAMES RODRIGUES']"
+Adidas,ACE 15.1 Leather,2015-06-01,220$,"['AG', 'FG', 'SG']",KANGAROO,269g,"['OSCAR,', 'IKER CASILLAS,', 'FERNANDO TORRES,', 'XABI ALONSO,', 'MESUT OZIL,', 'MANUEL NEUER,', 'JAMES RODRIGUES']"
+Adidas,ACE 15.1,2015-12-01,220$,"['AG', 'FG', 'SG']",SYNTHETIC,252g,"['FERNANDO TORRES,', 'XABI ALONSO,', 'MESUT OZIL,', 'MANUEL NEUER,', 'JAMES RODRIGUES']"
+Adidas,ACE 15.1 Leather,2015-12-01,220$,"['AG', 'FG', 'SG']",KANGAROO,269g,"['FERNANDO TORRES,', 'XABI ALONSO,', 'MESUT OZIL,', 'MANUEL NEUER,', 'JAMES RODRIGUES']"
+Adidas,ACE 15.1 Leather,2015-07-01,220$,"['AG', 'FG', 'SG']",KANGAROO,269g,"['FERNANDO TORRES,', 'XABI ALONSO,', 'MESUT OZIL,', 'MANUEL NEUER,', 'JAMES RODRIGUES']"
+Adidas,ACE 15.1 Leather,2015-10-01,220$,"['AG', 'FG', 'SG']",KANGAROO,269g,"['FERNANDO TORRES,', 'XABI ALONSO,', 'MESUT OZIL,', 'MANUEL NEUER,', 'JAMES RODRIGUES']"
+Adidas,ACE 15.1,2015-07-01,220$,"['AG', 'FG', 'SG']",SYNTHETIC,252g,"['FERNANDO TORRES,', 'XABI ALONSO,', 'MESUT OZIL,', 'MANUEL NEUER,', 'JAMES RODRIGUES']"
+Adidas,ACE 15.1,2015-08-01,220$,"['AG', 'FG', 'SG']",SYNTHETIC,252g,"['FERNANDO TORRES,', 'XABI ALONSO,', 'MESUT OZIL,', 'MANUEL NEUER,', 'JAMES RODRIGUES']"
+Adidas,ACE 15.1 Eskolaite,2015-08-01,230$,"['AG', 'FG', 'SG']",SYNTHETIC,252g,"['FERNANDO TORRES,', 'XABI ALONSO,', 'MESUT OZIL,', 'MANUEL NEUER,', 'JAMES RODRIGUES']"
+Adidas,ACE 15.1,2015-10-01,220$,"['AG', 'FG', 'SG']",SYNTHETIC,252g,"['FERNANDO TORRES,', 'XABI ALONSO,', 'MESUT OZIL,', 'MANUEL NEUER,', 'JAMES RODRIGUES']"
+Adidas,ACE 15.1,2015-12-01,220$,"['AG', 'FG', 'SG']",SYNTHETIC,252g,"['FERNANDO TORRES,', 'XABI ALONSO,', 'MESUT OZIL,', 'MANUEL NEUER,', 'JAMES RODRIGUES']"
+Adidas,ACE 15+ Primeknit,2015-09-28,250$,"['AG', 'FG', 'SG']",KNIT,278g,"['FERNANDO TORRES,', 'XABI ALONSO,', 'MESUT OZIL,', 'MANUEL NEUER,', 'JAMES RODRIGUES']"
+Adidas,ACE 15+ Primeknit CG,2015-10-01,150$,"['IN', 'TF']",KNIT,306g,[None]
+Adidas,ACE 15+ PrimeKnit,2015-12-01,250$,"['AG', 'FG', 'SG']",KNIT,278g,"['FERNANDO TORRES,', 'XABI ALONSO,', 'MESUT OZIL,', 'MANUEL NEUER,', 'JAMES RODRIGUES']"
+Adidas,ACE 15+ Primeknit CG,2015-12-01,150$,"['IN', 'TF']",KNIT,306g,[None]
+Adidas,ACE 16+ TKRZ,2016-02-01,150$,['TF'],SYNTHETIC,266g,[None]
+Adidas,ACE 16+ TKRZ,2015-02-01,150$,['TF'],SYNTHETIC,266g,[None]
+Adidas,ACE 16.1,2016-01-30,200$,"['AG', 'FG', 'SG']",SYNTHETIC,193g,"['FERNANDO TORRES,', 'XABI ALONSO,', 'MESUT OZIL,', 'MANUEL NEUER,', 'JAMES RODRIGUES']"
+Adidas,ACE 16.1,2016-01-25,200$,"['AG', 'FG', 'SG']",SYNTHETIC,193g,"['FERNANDO TORRES,', 'XABI ALONSO,', 'MESUT OZIL,', 'MANUEL NEUER,', 'JAMES RODRIGUES']"
+Adidas,ACE 16.1 CG,2016-02-01,90$,"['IN', 'TF']",SYNTHETIC,300g,[None]
+Adidas,ACE 16.1 Primeknit,2016-01-29,250$,"['AG', 'FG', 'SG']",KNIT,176g,"['FERNANDO TORRES,', 'XABI ALONSO,', 'MESUT OZIL,', 'MANUEL NEUER,', 'JAMES RODRIGUES']"
+Adidas,ACE 16.1 Primeknit,2016-02-26,250$,"['AG', 'FG', 'SG']",KNIT,176g,"['FERNANDO TORRES,', 'XABI ALONSO,', 'MESUT OZIL,', 'MANUEL NEUER,', 'JAMES RODRIGUES']"
+Adidas,ACE 16.1 Primeknit,2016-02-01,250$,"['AG', 'FG', 'SG']",KNIT,176g,"['FERNANDO TORRES,', 'XABI ALONSO,', 'MESUT OZIL,', 'MANUEL NEUER,', 'JAMES RODRIGUES']"
+Adidas,ACE 16.1 Primeknit Womens,2016-02-01,250$,"['AG', 'FG', 'SG']",KNIT,176g,"['FERNANDO TORRES,', 'XABI ALONSO,', 'MESUT OZIL,', 'MANUEL NEUER,', 'JAMES RODRIGUES']"
+Adidas,ACE 16.1 Leather,2016-01-31,200$,"['AG', 'FG', 'SG']",KANGAROO,193g,[None]
+Adidas,ACE 16.1 Primeknit,2016-01-25,250$,"['FG', 'SG']",KNIT,176g,"['FERNANDO TORRES,', 'XABI ALONSO,', 'MESUT OZIL,', 'MANUEL NEUER,', 'JAMES RODRIGUES']"
+Adidas,ACE 16+ Purecontrol,2016-01-29,300$,"['AG', 'FG', 'SG']",KNIT,224g,"['XABI ALONSO,', 'MESUT OZIL,', 'MANUEL NEUER,', 'JAMES RODRIGUES,', 'JUAN MATA']"
+Adidas,ACE 16+ Purecontrol,2016-01-25,300$,"['AG', 'FG', 'SG']",KNIT,224g,"['XABI ALONSO,', 'MESUT OZIL,', 'MANUEL NEUER,', 'JAMES RODRIGUES,', 'JUAN MATA']"
+Adidas,ACE 16.1 Leather,2016-01-25,200$,"['AG', 'FG', 'SG']",KANGAROO,193g,[None]
+Adidas,X 15+ Primeknit CG,2015-10-01,150$,"['IN', 'ST']",KNIT,289g,[None]
+Adidas,X 15.1 Primeknit,2015-12-01,250$,"['AG', 'FG', 'SG']",KNIT,212g,"['GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA']"
+Adidas,X 15+ Primeknit CG,2015-12-01,150$,"['IN', 'ST']",KNIT,289g,[None]
+Adidas,X 15.1 Primeknit,2016-03-01,250$,"['AG', 'FG', 'SG']",KNIT,212g,"['GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA']"
+Adidas,X 15.1 Leather,2015-12-01,200$,"['AG', 'FG', 'SG']",KANGAROO,192g,"['GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA']"
+Adidas,X 15.1 Leather,2015-06-01,200$,"['AG', 'FG', 'SG']",KANGAROO,192g,"['GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA']"
+Adidas,X 15.1 Leather,2015-10-01,200$,"['AG', 'FG', 'SG']",KANGAROO,192g,"['GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA']"
+Adidas,X 15.1,2015-05-25,200$,"['AG', 'FG', 'SG']",SYNTHETIC,192g,"['GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA']"
+Adidas,X 15.1,2015-07-01,200$,"['AG', 'FG', 'SG']",SYNTHETIC,192g,"['GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA']"
+Adidas,X 15.1 Eskolaite,2015-08-01,230$,"['AG', 'FG', 'SG']",SYNTHETIC,192g,"['GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA']"
+Adidas,X 15.1,2015-10-01,200$,"['AG', 'FG', 'SG']",SYNTHETIC,192g,"['GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA']"
+Adidas,X 15.1,2016-02-06,200$,"['AG', 'FG', 'SG']",SYNTHETIC,192g,"['GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA']"
+Adidas,X 15.1,2016-02-26,200$,"['AG', 'FG', 'SG']",SYNTHETIC,192g,"['GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA']"
+Adidas,X 15.1 Leather,2016-03-01,200$,"['AG', 'FG', 'SG']",KANGAROO,192g,"['GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA']"
+Adidas,X 15.1,2015-07-29,200$,"['AG', 'FG', 'SG']",SYNTHETIC,192g,"['GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA']"
+Adidas,X 15.1,2015-10-01,200$,"['AG', 'FG', 'SG']",SYNTHETIC,192g,"['GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA']"
+Adidas,X 15.1 Women,2016-02-01,200$,"['AG', 'FG', 'SG']",SYNTHETIC,198g,"['GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA']"
+Adidas,X 15.1,2015-12-01,200$,"['AG', 'FG', 'SG']",SYNTHETIC,192g,"['GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA']"
+Adidas,X 15.1,2015-09-01,200$,"['AG', 'FG', 'SG']",SYNTHETIC,192g,"['GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA']"
+Puma,evoSPEED SL,2015-06-24,240$,"['FG', 'SG']",SYNTHETIC,103g,"['REUS,', 'FALCAO,', 'AGUERO']"
+Puma,evoSPEED SL,2015-07-10,230$,"['FG', 'SG']",SYNTHETIC,103g,"['REUS,', 'FALCAO,', 'AGUERO']"
+Puma,evoSPEED SL,2015-10-01,230$,"['FG', 'SG']",SYNTHETIC,103g,"['REUS,', 'FALCAO,', 'AGUERO']"
+Puma,evoSPEED SL,2015-09-14,240$,"['FG', 'SG']",SYNTHETIC,103g,"['REUS,', 'FALCAO,', 'AGUERO']"
+Puma,evoSPEED SL,2016-01-02,240$,"['FG', 'SG']",SYNTHETIC,103g,"['REUS,', 'FALCAO,', 'AGUERO']"
+Puma,evoSPEED SL,2016-02-01,240$,"['FG', 'SG']",SYNTHETIC,103g,"['REUS,', 'FALCAO,', 'AGUERO']"
+Puma,evoSPEED SL,2016-02-10,240$,"['FG', 'SG']",SYNTHETIC,103g,"['REUS,', 'FALCAO,', 'AGUERO']"
+Puma,v1.06 10th Anniv.,2016-02-10,250$,['FG'],SYNTHETIC,0g,[None]
+Adidas,ACE 16+ TKRZ,2015-02-01,150$,['TF'],SYNTHETIC,266g,[None]
+Nike,Hypervenom Phantom II,2016-04-15,0$,['SG'],SYNTHETIC,209g,"['NEYMAR,', 'WELBECK,', 'LEWANDOWSKI,', 'ISCO']"
+Nike,Tiempo Legend VI,2016-04-15,0$,['SG'],KANGAROO,244g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Nike,Magista Obra,2016-04-15,0$,['SG'],"SYNTHETIC,",205g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,Mercurial Superfly V,2016-05-28,275$,"['AG', 'FG', 'SG']",KNIT,0g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Adidas,X 15.1,2015-06-01,200$,"['AG', 'FG', 'SG']",SYNTHETIC,192g,"['THOMAS MULLER,', 'GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA,', 'MARCELO,', 'DAVID VILLA']"
+Adidas,Messi 15.1,2015-10-01,220$,"['FG', 'SG']",SYNTHETIC,232g,['MESSI']
+Adidas,Messi 15.1,2015-10-01,220$,"['FG', 'SG']",SYNTHETIC,232g,['MESSI']
+Adidas,Messi 15.1,2015-10-10,220$,"['FG', 'SG']",SYNTHETIC,232g,['MESSI']
+Adidas,Messi 15.1,2016-02-23,220$,"['FG', 'SG']",SYNTHETIC,232g,['MESSI']
+Adidas,Gloro 15.1,2015-03-01,110$,"['FG', 'HG', 'SG']",KANGAROO,238g,[None]
+Adidas,Gloro 15.1,2015-03-01,110$,"['FG', 'HG', 'SG']",KANGAROO,238g,[None]
+Adidas,Gloro 15.1,2015-03-01,110$,"['FG', 'HG', 'SG']",KANGAROO,238g,[None]
+Adidas,Gloro 15.1,2015-03-01,110$,"['FG', 'HG', 'SG']",KANGAROO,238g,[None]
+Adidas,Gloro 15.1,2015-03-01,110$,"['FG', 'HG', 'SG']",KANGAROO,238g,[None]
+Adidas,Gloro 15.1,2015-03-01,110$,"['FG', 'HG', 'SG']",KANGAROO,238g,[None]
+Adidas,Gloro 16.1,2015-12-02,110$,"['FG', 'HG', 'SG']",KANGAROO,238g,[None]
+Adidas,Gloro 16.1,2015-12-02,110$,"['FG', 'HG', 'SG']",KANGAROO,238g,[None]
+Adidas,Gloro 16.1,2015-12-02,110$,"['FG', 'HG', 'SG']",KANGAROO,238g,[None]
+Adidas,Gloro 16.1,2015-12-02,110$,"['FG', 'HG', 'SG']",KANGAROO,238g,[None]
+Puma,evoSPEED SL Leather,2016-03-04,250$,"['FG', 'SG']",KANGAROO,145g,"['REUS,', 'FALCAO,', 'AGUERO']"
+Puma,evoSPEED SL,2016-03-31,250$,"['FG', 'SG']",SYNTHETIC,103g,"['REUS,', 'FALCAO,', 'AGUERO']"
+Puma,evoTOUCH Pro,2016-07-10,250$,"['AG', 'FG', 'SG']",KANGAROO,212g,[None]
+Puma,King II,2014-10-01,180$,['FG'],KANGAROO,0g,[None]
+Puma,King II,2015-07-01,180$,['FG'],KANGAROO,0g,[None]
+Puma,King II,2015-07-01,180$,['FG'],KANGAROO,0g,[None]
+Puma,King Top Stripe di,2016-02-12,160$,['FG'],KANGAROO,0g,[None]
+Puma,King Top Stripe di,2016-02-12,160$,['FG'],KANGAROO,0g,[None]
+Puma,King Top Stripe di,2016-02-12,160$,['FG'],KANGAROO,0g,[None]
+Nike,MercurialX Proximo CR7,2016-03-20,160$,"['IN', 'TF']",KNIT,0g,[None]
+Nike,Mercurial Superfly CR7,2016-03-20,285$,"['AG', 'FG', 'SG']",KNIT,200g,['CHRISTIANO RONALDO']
+Puma,evoSPEED Fresh,2016-03-17,150$,['FG'],SYNTHETIC,0g,"['REUS,', 'FALCAO,', 'AGUERO']"
+Puma,King II SL,2015-04-10,220$,['FG'],KANGAROO,180g,[None]
+Puma,King SL Classico,2014-12-01,300$,['FG'],KANGAROO,0g,[None]
+Puma,King II,2015-07-01,180$,['FG'],KANGAROO,0g,[None]
+Puma,King II,2015-07-01,180$,['FG'],KANGAROO,0g,[None]
+Puma,King II,2015-07-01,180$,['FG'],KANGAROO,0g,[None]
+Puma,King II,2015-07-01,180$,['FG'],KANGAROO,0g,[None]
+Puma,King II,2015-07-01,180$,['FG'],KANGAROO,0g,[None]
+Puma,King Top K di,2010-01-01,160$,['FG'],KANGAROO,0g,[None]
+Puma,King Lothar Matthäus,2015-07-06,200$,['FG'],KANGAROO,0g,['LOTHAR MATTHäUS']
+Puma,King Lothar Matthäus Premium,2015-07-06,0$,['FG'],KANGAROO,0g,['LOTHAR MATTHäUS']
+Puma,King Top K di,2010-01-01,160$,['FG'],KANGAROO,0g,[None]
+Umbro,Medusae Pro,2016-02-15,195$,"['HG', 'SG']",KANGAROO,185g,[None]
+Umbro,Medusae Pro,2016-02-15,195$,"['HG', 'SG']",KANGAROO,185g,[None]
+Umbro,Velocita II Pro,2016-01-11,195$,"['HG', 'SG']",SYNTHETIC,0g,[None]
+Umbro,Velocita II Pro,2016-01-11,195$,"['HG', 'SG']",SYNTHETIC,0g,[None]
+Umbro,Velocita Pro,2015-01-26,195$,"['HG', 'SG']",SYNTHETIC,165g,[None]
+Umbro,Velocita Pro Tri Mess,2015-01-26,195$,['HG'],SYNTHETIC,165g,[None]
+Umbro,Velocita Pro,2015-01-26,195$,"['HG', 'SG']",SYNTHETIC,165g,[None]
+Umbro,Velocita Pro,2015-01-26,195$,"['HG', 'SG']",SYNTHETIC,165g,[None]
+Umbro,Velocita Pro,2015-01-26,195$,"['HG', 'SG']",SYNTHETIC,165g,[None]
+Umbro,Velocita Pro,2015-01-26,195$,"['HG', 'SG']",SYNTHETIC,165g,[None]
+Umbro,Velocita Pro,2015-01-26,195$,"['HG', 'SG']",SYNTHETIC,165g,[None]
+Umbro,Velocita Pro,2015-01-26,195$,"['HG', 'SG']",SYNTHETIC,165g,[None]
+Nike,Tiempo Legend VI SE,2016-04-07,210$,['FG'],KANGAROO,244g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Nike,Magista Obra SE,2016-04-07,300$,['FG'],"SYNTHETIC,",205g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,Mercurial Superfly SE,2016-04-07,300$,['FG'],KNIT,200g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Hypervenom Phantom II SE,2016-04-07,300$,['FG'],SYNTHETIC,209g,"['NEYMAR,', 'WELBECK,', 'LEWANDOWSKI,', 'ISCO']"
+Nike,HypervenomX Proximo SE,2016-04-07,175$,['IN'],SYNTHETIC,0g,[None]
+Nike,MercurialX Proximo SE,2016-04-07,150$,['IN'],KNIT,0g,[None]
+Nike,MagistaX Proximo SE,2016-04-07,150$,['IN'],KNIT,0g,[None]
+Nike,TiempoX Proximo IC,2016-04-07,175$,['IN'],KANGAROO,0g,[None]
+Umbro,Speciali Eternal,2015-12-19,165$,"['HG', 'SG']",KANGAROO,0g,['PEPE']
+Umbro,Speciali Eternal,2015-09-07,165$,"['HG', 'SG']",KANGAROO,0g,['PEPE']
+Umbro,Speciali Eternal,2016-01-12,165$,"['HG', 'SG']",KANGAROO,0g,['PEPE']
+Umbro,Speciali Eternal,2015-07-01,165$,"['HG', 'SG']",KANGAROO,0g,['PEPE']
+Umbro,Speciali Eternal,2015-07-01,165$,"['HG', 'SG']",KANGAROO,0g,['PEPE']
+Umbro,Speciali Eternal,2015-08-19,165$,"['HG', 'SG']",KANGAROO,0g,['PEPE']
+Umbro,UX-2 Pro,2015-07-22,180$,"['HG', 'SG']",SYNTHETIC,0g,[None]
+Umbro,UX-2 Pro,2015-07-22,180$,"['HG', 'SG']",SYNTHETIC,0g,[None]
+Umbro,UX-2 Pro,2015-08-18,180$,"['HG', 'SG']",SYNTHETIC,0g,[None]
+Umbro,UX-2 Pro,2016-02-15,180$,"['HG', 'SG']",SYNTHETIC,0g,[None]
+Umbro,UX-2 Pro,2015-10-12,180$,"['HG', 'SG']",SYNTHETIC,0g,[None]
+Umbro,Medusae Pro,2016-03-29,195$,"['HG', 'SG']",KANGAROO,185g,[None]
+Umbro,Velocita II Pro,2016-03-29,195$,"['HG', 'SG']",SYNTHETIC,0g,[None]
+Adidas,ACE 16+ Purecontrol,2016-03-22,300$,"['FG', 'SG']",KNIT,224g,"['XABI ALONSO,', 'MESUT OZIL,', 'MANUEL NEUER,', 'JAMES RODRIGUES,', 'JUAN MATA']"
+Adidas,ACE 16+ TKRZ,2016-04-05,140$,['AG'],SYNTHETIC,266g,[None]
+Adidas,ACE 16.3 Court,2016-04-05,110$,['IN'],SYNTHETIC,300g,[None]
+Adidas,ACE 16.1 ,2016-04-05,200$,"['AG', 'FG', 'SG']",SYNTHETIC,193g,[None]
+ADIDAS,ACE 16.1 LEATHER,2016-04-05,200$,"['AG', 'FG', 'SG']",KANGAROO,193g,[None]
+Adidas,ACE 16.1 Primeknit,2016-04-05,250$,"['AG', 'FG', 'SG']",KNIT,176g,"['XABI ALONSO,', 'MESUT OZIL,', 'MANUEL NEUER,', 'JAMES RODRIGUES,', 'JUAN MATA']"
+Adidas,ACE 16.1 Street,2016-03-03,110$,['ST'],SYNTHETIC,204g,[None]
+Adidas,ACE 16.3 TF,2016-04-05,70$,['TF'],SYNTHETIC,312g,[None]
+Adidas,ACE 16.3 IN,2016-04-05,70$,['IN'],SYNTHETIC,283g,[None]
+Adidas,ACE 16.3 Primemesh TF,2016-04-05,80$,['TF'],SYNTHETIC,295g,[None]
+Adidas,Copa SL,2016-04-16,250$,['FG'],SYNTHETIC,176g,[None]
+Adidas,Copa SL CT,2016-04-16,150$,['IN'],SYNTHETIC,260g,[None]
+Adidas,Messi 15.3 IN,2016-01-13,70$,['IN'],SYNTHETIC,266g,[None]
+Adidas,Messi 15.3 TF,2016-01-13,70$,['TF'],SYNTHETIC,266g,[None]
+Adidas,X 15+ SL,2016-04-01,250$,"['AG', 'FG', 'SG']",SYNTHETIC,0g,"['GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA']"
+ADIDAS,X 15.3 IN,2016-03-24,70$,['IN'],SYNTHETIC,278g,[None]
+ADIDAS,X 15.3 TF,2016-03-24,70$,['TF'],SYNTHETIC,300g,[None]
+ADIDAS,X 15.1,2016-03-14,200$,"['AG', 'FG', 'SG']",SYNTHETIC,192g,"['GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA']"
+ADIDAS,X 15.1 Leather,2016-03-13,200$,"['AG', 'FG', 'SG']",KANGAROO,192g,"['GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA']"
+ADIDAS,X 15.1 ,2016-03-24,200$,"['AG', 'FG', 'SG']",SYNTHETIC,192g,"['GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA']"
+ADIDAS,X 15.1 Leather,2016-03-24,200$,"['AG', 'FG', 'SG']",KANGAROO,192g,"['GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA']"
+Puma,evoSPEED SL II,2016-04-20,250$,"['FG', 'SG']",SYNTHETIC,107g,"['REUS,', 'FALCAO,', 'AGUERO']"
+Puma,evoSPEED SL II Leather,2016-04-20,240$,"['FG', 'SG']",CALF,0g,"['REUS,', 'FALCAO,', 'AGUERO']"
+Puma,evoSPEED 1.5,2016-04-20,195$,"['AG', 'FG', 'SG']",SYNTHETIC,107g,"['REUS,', 'FALCAO,', 'AGUERO']"
+Puma,evoSPEED 4.5,2016-04-20,70$,"['FG', 'IN']",SYNTHETIC,0g,"['REUS,', 'FALCAO,', 'AGUERO']"
+Puma,evoSPEED 5.5,2016-04-20,55$,"['FG', 'TF']",SYNTHETIC,0g,"['REUS,', 'FALCAO,', 'AGUERO']"
+Puma,evoPOWER 1.3,2016-04-20,220$,"['AG', 'FG', 'SG']",SYNTHETIC,205g,"['FABREGAS,', 'BALOTELLI,', 'GIROUD,', 'YAYA TOURE.TOURE']"
+Puma,evoPOWER 3.3,2016-04-20,75$,['FG'],SYNTHETIC,0g,"['FABREGAS,', 'BALOTELLI,', 'GIROUD,', 'YAYA TOURE.TOURE']"
+Puma,evoPOWER 4.3,2016-04-20,50$,"['AG', 'FG', 'IN', 'TF']",SYNTHETIC,0g,"['FABREGAS,', 'BALOTELLI,', 'GIROUD,', 'YAYA TOURE.TOURE']"
+Nike,HyperVenom Phantom II,2016-10-03,275$,"['AG', 'FG', 'SG']",SYNTHETIC,209g,"['NEYMAR,', 'WELBECK,', 'LEWANDOWSKI,', 'ISCO']"
+Umbro,Velocita II Pro,2016-04-21,195$,"['HG', 'SG']",SYNTHETIC,0g,[None]
+Umbro,UX-2 Pro,2016-04-21,180$,"['HG', 'SG']",SYNTHETIC,0g,[None]
+Under,Armour ClutchFit Force,2015-02-11,175$,"['FG', 'HG', 'SG']",SYNTHETIC,225g,['MEMPHIS DEPAY']
+Under,Armour ClutchFit Force,2015-02-11,175$,"['FG', 'HG', 'SG']",SYNTHETIC,225g,['MEMPHIS DEPAY']
+Under,Armour ClutchFit Force,2015-02-11,175$,"['FG', 'HG', 'SG']",SYNTHETIC,225g,['MEMPHIS DEPAY']
+Under,Armour ClutchFit Force,2015-02-11,175$,"['FG', 'HG', 'SG']",SYNTHETIC,225g,['MEMPHIS DEPAY']
+Under,Armour ClutchFit 'Multi Camo',2015-09-15,175$,"['FG', 'HG', 'SG']",SYNTHETIC,225g,['MEMPHIS DEPAY']
+Under,Armour ClutchFit Force 2.0,2016-01-05,185$,"['FG', 'HG', 'SG']",SYNTHETIC,225g,['MEMPHIS DEPAY']
+Under,Armour ClutchFit Force 2.0,2015-12-01,185$,"['FG', 'HG', 'SG']",SYNTHETIC,225g,['MEMPHIS DEPAY']
+Under,Armour ClutchFit Force 2.0,2016-03-19,210$,['FG'],SYNTHETIC,225g,['MEMPHIS DEPAY']
+Under,Armour ClutchFit Force 2.0,2016-03-19,210$,['FG'],SYNTHETIC,225g,['MEMPHIS DEPAY']
+Under,Armour ClutchFit Force IN,2015-02-11,70$,['IN'],SYNTHETIC,250g,[None]
+Under,Armour ClutchFit Force IN,2015-02-11,70$,['IN'],SYNTHETIC,250g,[None]
+Under,Armour ClutchFit Force 2.0 IN,2016-01-05,70$,['IN'],SYNTHETIC,250g,[None]
+Under,Armour ClutchFit Force 2.0 IN,2015-12-01,70$,['IN'],SYNTHETIC,250g,[None]
+Under,Armour ClutchFit Force 2.0 TR,2016-01-05,70$,['TF'],SYNTHETIC,255g,[None]
+Under,Armour ClutchFit Force 2.0 TR,2015-12-01,70$,['TF'],SYNTHETIC,255g,[None]
+Under,Armour Speedform CRM,2015-04-14,220$,"['FG', 'HG', 'SG']",SYNTHETIC,210g,['MEMPHIS DEPAY']
+Under,Armour Speedform CRM,2015-04-14,220$,"['FG', 'HG', 'SG']",SYNTHETIC,210g,['MEMPHIS DEPAY']
+Under,Armour Speedform CBN Leather,2014-07-10,220$,['FG'],KANGAROO,213g,['MEMPHIS DEPAY']
+Under,Armour Speedform CBN Leather,2015-07-10,220$,['FG'],KANGAROO,213g,['MEMPHIS DEPAY']
+Under,Armour Speedform CRM,2015-12-01,229$,"['FG', 'HG', 'SG']",SYNTHETIC,210g,['MEMPHIS DEPAY']
+Under,Armour Speedform Flash IN,2015-12-01,250$,['IN'],SYNTHETIC,70g,[None]
+Under,Armour Speedform Flash TR,2015-12-01,255$,['TF'],SYNTHETIC,60g,[None]
+Under,Armour Speedform CRM,2016-01-05,220$,"['FG', 'HG', 'SG']",SYNTHETIC,210g,['MEMPHIS DEPAY']
+Under,Armour Speedform Flash IN,2016-01-05,70$,['IN'],SYNTHETIC,250g,[None]
+Under,Armour Speedform Flash TR,2016-01-05,60$,['TF'],SYNTHETIC,255g,[None]
+Under,Armour Speedform CRM,2015-10-20,220$,"['FG', 'HG', 'SG']",SYNTHETIC,210g,['MEMPHIS DEPAY']
+Under,Armour Speedform CRM,2015-07-10,220$,"['FG', 'HG', 'SG']",SYNTHETIC,210g,['MEMPHIS DEPAY']
+Under,Armour Speedform CRM,2016-03-19,230$,"['FG', 'HG', 'SG']",SYNTHETIC,210g,['MEMPHIS DEPAY']
+Under,Armour Speedform CRM,2016-03-19,230$,['FG'],SYNTHETIC,210g,['MEMPHIS DEPAY']
+Under,Armour Speedform CRM,2016-03-06,220$,['FG'],SYNTHETIC,210g,['MEMPHIS DEPAY']
+Mizuno,Morelia2 ,2014-01-01,280$,['FG'],KANGAROO,215g,[None]
+Mizuno,Morelia2 ,2014-01-01,280$,['FG'],KANGAROO,215g,[None]
+Mizuno,Morelia Neo,2015-12-14,280$,"['AG', 'FG', 'SG']",KANGAROO,180g,['HULK']
+Mizuno,Morelia Neo,2016-01-21,280$,"['FG', 'SG']",KANGAROO,180g,['HULK']
+Mizuno,Morelia Neo,2016-01-22,280$,"['FG', 'SG']",KANGAROO,180g,['HULK']
+Mizuno,Morelia Neo MD,2015-11-01,230$,"['FG', 'SG']",KANGAROO,195g,[None]
+Mizuno,Morelia Neo MD,2015-12-14,230$,"['FG', 'SG']",KANGAROO,195g,[None]
+Mizuno,Morelia Neo MD,2016-01-22,230$,"['FG', 'SG']",KANGAROO,195g,[None]
+Mizuno,Basara 001 MD,2015-08-04,210$,['FG'],SYNTHETIC,200g,[None]
+Mizuno,Basara 101 MD,2014-06-05,210$,['FG'],SYNTHETIC,200g,[None]
+Mizuno,Wave Ignitus 3,2015-07-08,230$,['FG'],SYNTHETIC,235g,[None]
+Mizuno,Wave Ignitus 4 MD,2015-12-14,230$,['FG'],SYNTHETIC,235g,[None]
+NewBalance,Visaro Pro,2015-09-18,180$,"['FG', 'SG']",SYNTHETIC,232g,['VINCENT KOMPANY']
+NewBalance,Visaro Pro,2015-06-16,180$,"['FG', 'SG']",SYNTHETIC,232g,['VINCENT KOMPANY']
+NewBalance,Visaro Pro,2015-11-20,180$,"['FG', 'SG']",SYNTHETIC,232g,['VINCENT KOMPANY']
+NewBalance,Visaro Pro,2016-02-19,180$,"['FG', 'SG']",SYNTHETIC,232g,['VINCENT KOMPANY']
+NewBalance,Visaro Control IN,2016-02-19,70$,['IN'],SYNTHETIC,267g,[None]
+NewBalance,Visaro Control TF,2016-02-19,70$,['TF'],SYNTHETIC,232g,[None]
+NewBalance,Visaro Control IN,2015-11-20,70$,['IN'],SYNTHETIC,267g,[None]
+NewBalance,Visaro Control TF,2015-11-20,70$,['TF'],SYNTHETIC,267g,[None]
+NewBalance,Visaro Control IN,2015-09-18,70$,['IN'],SYNTHETIC,267g,[None]
+NewBalance,Furon Pro,2015-09-18,180$,"['FG', 'HG', 'SG']",SYNTHETIC,232g,[None]
+NewBalance,Furon Dispatch IN,2015-09-18,70$,['IN'],SYNTHETIC,267g,[None]
+NewBalance,Furon Pro,2015-11-20,180$,"['FG', 'HG', 'SG']",SYNTHETIC,232g,[None]
+NewBalance,Furon Dispatch IN,2015-11-20,70$,['IN'],SYNTHETIC,267g,[None]
+NewBalance,Furon Dispatch TF,2015-11-20,70$,['TF'],SYNTHETIC,267g,[None]
+NewBalance,Furon Pro,2016-02-19,180$,"['FG', 'HG', 'SG']",SYNTHETIC,232g,[None]
+NewBalance,Furon Dispatch IN,2016-02-19,70$,['IN'],SYNTHETIC,267g,[None]
+NewBalance,Furon Dispatch TF,2016-02-19,70$,['TF'],SYNTHETIC,267g,[None]
+NewBalance,Furon Pro,2015-06-16,180$,"['FG', 'HG', 'SG']",SYNTHETIC,232g,[None]
+Nike,MercurialX Finale TF,2016-04-21,90$,['TF'],SYNTHETIC,0g,[None]
+Nike,MercurialX Finale IC,2016-04-21,90$,['IN'],SYNTHETIC,0g,[None]
+Nike,HypervenomX Finale TF,2016-04-21,100$,['TF'],SYNTHETIC,0g,[None]
+Nike,HypervenomX Finale IC,2016-04-21,100$,['IN'],SYNTHETIC,0g,[None]
+Nike,MagistaX Finale TF,2016-04-21,90$,['TF'],SYNTHETIC,0g,[None]
+Nike,MagistaX Finale IC,2016-04-21,90$,['IN'],SYNTHETIC,0g,[None]
+Nike,MercurialX Proximo TF,2016-04-21,150$,['TF'],KNIT,0g,[None]
+Nike,HypervenomX Proximo TF,2016-04-21,150$,['TF'],SYNTHETIC,0g,[None]
+Nike,MagistaX Proximo TF,2016-04-21,150$,['TF'],KNIT,0g,[None]
+Adidas,ACE 16+ Purecontrol,2016-05-24,300$,"['FG', 'SG']",KNIT,224g,"['XABI ALONSO,', 'MESUT OZIL,', 'MANUEL NEUER,', 'JAMES RODRIGUES,', 'JUAN MATA']"
+NewBalance,Furon Pro,2016-05-16,180$,"['FG', 'HG', 'SG']",SYNTHETIC,232g,['MEMPHIS']
+Nike,Magista Obra,2016-05-28,275$,"['AG', 'FG']",SYNTHETIC,205g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Adidas,ACE 16+ Purecontrol Women's,2016-07-15,300$,"['FG', 'SG']",KNIT,224g,"['XABI ALONSO,', 'MESUT OZIL,', 'MANUEL NEUER,', 'JAMES RODRIGUES,', 'JUAN MATA']"
+Adidas,X 16.1 ,2016-07-15,220$,"['AG', 'FG', 'SG']",SYNTHETIC,0g,"['GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA']"
+Adidas,X 16.1 Leather,2016-07-15,200$,"['AG', 'FG', 'SG']",SYNTHETIC,0g,"['GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA']"
+Adidas,X 16.1 Leather Women's,2016-07-15,200$,"['AG', 'FG', 'SG']",KANGAROO,0g,"['GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA']"
+Adidas,Messi 16.1,2016-07-15,200$,"['AG', 'FG', 'SG']",SYNTHETIC,192g,['MESSI']
+Adidas,Gloro 16.1,2016-07-10,110$,['FG'],KANGAROO,238g,[None]
+Adidas,Gloro 16.1,2016-07-10,110$,['FG'],KANGAROO,238g,[None]
+Adidas,Gloro 16.1,2016-07-10,110$,['FG'],KANGAROO,238g,[None]
+Nike,Mercurial Vapor XI,2016-07-05,200$,"['FG', 'SG']",SYNTHETIC,0g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Tiempo Legend VI,2016-07-05,210$,"['AG', 'FG', 'HG', 'SG']",KANGAROO,244g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Nike,Hypervenom Phinish,2016-07-05,200$,"['AG', 'FG']",SYNTHETIC,0g,"['NEYMAR,', 'WELBECK,', 'LEWANDOWSKI,', 'ISCO']"
+Adidas,X 16.1 ,2016-08-01,220$,"['AG', 'FG', 'SG']",SYNTHETIC,0g,"['GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA']"
+Nike,Mercurial Superfly Heritage iD,2016-05-09,315$,"['AG', 'FG', 'SG']",KNIT,200g,"['RONALDO,', 'ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Mercurial Superfly Heritage iD,2016-05-09,315$,"['AG', 'FG', 'SG']",KNIT,200g,"['RONALDO,', 'ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Mercurial Superfly Heritage iD,2016-05-09,315$,"['AG', 'FG', 'SG']",KNIT,200g,"['RONALDO,', 'ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Mercurial Superfly Heritage iD,2016-05-09,315$,"['AG', 'FG', 'SG']",KNIT,200g,"['RONALDO,', 'ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Mercurial Superfly What The Mercurial,2016-05-05,0$,['FG'],KNIT,200g,"['RONALDO,', 'ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Adidas,Ace 16.1,2016-05-02,200$,"['FG', 'SG']",SYNTHETIC,193g,"['OSCAR,', 'FERNANDO TORRES,', 'XABI ALONSO,', 'MESUT OZIL,', 'JAMES RODRIGUES']"
+Adidas,Ace 16+ PureControl,2016-07-15,300$,"['FG', 'SG']",KNIT,224g,"['OSCAR,', 'FERNANDO TORRES,', 'XABI ALONSO,', 'MESUT OZIL,', 'JAMES RODRIGUES']"
+Adidas,X 15.1,2016-05-02,200$,"['AG', 'FG', 'SG']",SYNTHETIC,192g,"['OSCAR,', 'FERNANDO TORRES,', 'XABI ALONSO,', 'MESUT OZIL,', 'JAMES RODRIGUES']"
+Adidas,X 16.1,2016-07-15,200$,"['FG', 'SG']",SYNTHETIC,0g,[None]
+Adidas,X 16.1 Leather,2016-05-24,200$,"['FG', 'SG']",KANGAROO,0g,[None]
+Adidas,X 16.1,2016-09-16,200$,"['FG', 'SG']",SYNTHETIC,0g,[None]
+Nike,MagistaX Proximo TF,2015-12-21,150$,['TF'],KNIT,0g,[None]
+Nike,MagistaX Proximo TF,2015-12-02,150$,['IN'],KNIT,0g,[None]
+Nike,MagistaX Proximo TF,2015-10-05,150$,['TF'],KNIT,0g,[None]
+Nike,MagistaX Proximo TF,2015-09-21,150$,['TF'],KNIT,0g,[None]
+Nike,MagistaX Proximo TF,2015-06-29,150$,['TF'],KNIT,0g,[None]
+Nike,MagistaX Proximo TF,2015-06-23,150$,['TF'],KNIT,0g,[None]
+Nike,MagistaX Proximo TF,2015-04-01,150$,['IN'],KNIT,0g,[None]
+Nike,MagistaX Proximo TF,2015-04-01,150$,['TF'],KNIT,0g,[None]
+Nike,MagistaX Finale TF,2015-12-02,90$,['TF'],SYNTHETIC,0g,[None]
+Nike,MagistaX Finale TF,2015-12-21,90$,['TF'],SYNTHETIC,0g,[None]
+Nike,MagistaX Finale TF,2015-09-21,90$,['TF'],SYNTHETIC,0g,[None]
+Nike,MagistaX Finale TF,2015-06-29,90$,['TF'],SYNTHETIC,0g,[None]
+Nike,MagistaX Finale TF,2015-10-05,90$,['TF'],SYNTHETIC,0g,[None]
+Nike,MagistaX Finale TF,2016-03-27,90$,['TF'],SYNTHETIC,0g,[None]
+Nike,MagistaX Finale IC,2015-12-02,90$,['IN'],SYNTHETIC,0g,[None]
+Nike,MagistaX Finale IC,2015-12-21,90$,['IN'],SYNTHETIC,0g,[None]
+Nike,MagistaX Finale IC,2015-09-21,90$,['IN'],SYNTHETIC,0g,[None]
+Nike,MagistaX Finale IC,2015-06-29,90$,['IN'],SYNTHETIC,0g,[None]
+Nike,MagistaX Finale IC,2015-10-05,90$,['IN'],SYNTHETIC,0g,[None]
+Nike,MagistaX Finale IC,2016-03-27,90$,['IN'],SYNTHETIC,0g,[None]
+Nike,MagistaX Proximo TF,2016-03-27,150$,['TF'],KNIT,0g,[None]
+Nike,MagistaX Proximo IC,2016-03-27,150$,['IN'],KNIT,0g,[None]
+Nike,MagistaX Pro IC,2015-12-02,65$,['IN'],SYNTHETIC,0g,[None]
+Nike,MagistaX Pro IC,2015-12-21,65$,['IN'],SYNTHETIC,0g,[None]
+Nike,MagistaX Pro IC,2015-09-21,65$,['IN'],SYNTHETIC,0g,[None]
+Nike,MagistaX Pro TF,2015-12-02,65$,['TF'],SYNTHETIC,0g,[None]
+Nike,MagistaX Pro TF,2015-09-21,65$,['TF'],SYNTHETIC,0g,[None]
+Nike,Mercurial Vapor XI,2016-05-28,230$,"['FG', 'SG']",SYNTHETIC,200g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Magista Opus,2016-05-28,200$,"['AG', 'FG']",SYNTHETIC,0g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Adidas,PDS X,2016-03-21,299$,['FG'],KANGAROO,235g,[None]
+Adidas,Messi 16+ PureAgility,2016-05-24,300$,"['FG', 'SG']",SYNTHETIC,192g,['MESSI']
+Under,Armour Spotlight,2016-07-01,220$,['FG'],SYNTHETIC,0g,['MEMPHIS']
+Adidas,Mundial Goal,2010-01-01,95$,['IN'],KANGAROO,340g,[None]
+Adidas,Copa Mundial,2010-01-01,150$,['FG'],KANGAROO,331g,[None]
+Adidas,Copa Mundial,2010-01-01,150$,['FG'],KANGAROO,331g,[None]
+Adidas,Mundial Team,2010-01-01,95$,['TF'],KANGAROO,360g,[None]
+Adidas,Kaiser 5 Liga,2014-12-09,140$,"['FG', 'SG']",KANGAROO,331g,[None]
+Adidas,Kaiser 5 Liga,2014-12-09,140$,"['FG', 'SG']",KANGAROO,331g,[None]
+Adidas,Kaiser 5 Liga,2014-12-09,140$,"['FG', 'SG']",KANGAROO,331g,[None]
+Adidas,Kaiser 5 Team,2014-12-09,95$,['TF'],KANGAROO,360g,[None]
+Adidas,Kaiser 5 Team,2014-12-09,95$,['TF'],KANGAROO,360g,[None]
+Adidas,Kaiser 5 Team,2014-12-09,95$,['TF'],KANGAROO,360g,[None]
+Adidas,Kaiser 5 Team,2014-12-09,95$,['TF'],KANGAROO,360g,[None]
+NewBalance,Furon Dispatch IN,2016-05-01,70$,['IN'],SYNTHETIC,267g,[None]
+NewBalance,Furon Dispatch TF,2016-05-01,70$,['TF'],SYNTHETIC,267g,[None]
+NewBalance,Visaro Pro,0000-00-00,180$,"['FG', 'SG']",SYNTHETIC,232g,['MEMPHIS']
+NewBalance,Visaro Control IN,2016-05-01,70$,['IN'],SYNTHETIC,267g,[None]
+NewBalance,Visaro Control TF,2016-05-01,70$,['TF'],SYNTHETIC,267g,[None]
+NewBalance,Visaro Leather,2016-05-01,210$,"['FG', 'SG']",KANGAROO,227g,[None]
+NewBalance,Visaro Leather,2015-06-01,210$,"['FG', 'SG']",KANGAROO,227g,[None]
+Adidas,X 16+ PureChaos,2016-05-24,300$,"['FG', 'SG']",KANGAROO,192g,"['THOMAS MULLER,', 'GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA,', 'MARCELO']"
+Nike,HypervenomX Proximo TF,2016-05-28,150$,['TF'],SYNTHETIC,0g,[None]
+Nike,HypervenomX Finale IC,2016-05-28,100$,['IN'],SYNTHETIC,0g,[None]
+Nike,HypervenomX Finale TF,2016-05-28,100$,['TF'],SYNTHETIC,0g,[None]
+Nike,Hypervenom Phinish II,2016-05-28,200$,"['AG', 'FG']",SYNTHETIC,0g,"['NEYMAR,', 'WELBECK,', 'LEWANDOWSKI,', 'ISCO']"
+Nike,Hypervenom Phatal II Dynamic Fit,2016-05-28,170$,['FG'],SYNTHETIC,0g,"['NEYMAR,', 'WELBECK,', 'LEWANDOWSKI,', 'ISCO']"
+Nike,Hypervenom Phatal II,2016-05-28,130$,['FG'],SYNTHETIC,0g,"['NEYMAR,', 'WELBECK,', 'LEWANDOWSKI,', 'ISCO']"
+Nike,Hypervenom Phelon II,2016-05-28,75$,['FG'],SYNTHETIC,0g,"['NEYMAR,', 'WELBECK,', 'LEWANDOWSKI,', 'ISCO']"
+Nike,Hypervenom Phelon II IC,2016-05-28,75$,['IN'],SYNTHETIC,0g,"['NEYMAR,', 'WELBECK,', 'LEWANDOWSKI,', 'ISCO']"
+Nike,Hypervenom Phelon II TF,2016-05-28,75$,['TF'],SYNTHETIC,0g,"['NEYMAR,', 'WELBECK,', 'LEWANDOWSKI,', 'ISCO']"
+Nike,Magista Orden,2016-05-28,130$,['FG'],SYNTHETIC,0g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,Magista Onda,2016-05-28,75$,['FG'],SYNTHETIC,0g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,Magista Onda IC,2016-05-28,75$,['IN'],SYNTHETIC,0g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,Magista Onda TF,2016-05-28,75$,['TF'],SYNTHETIC,0g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,HypervenomX Proximo NJR x JORDAN IC,2016-06-01,190$,['IN'],SYNTHETIC,0g,[None]
+Nike,Hypervenom Phantom II NJR X JORDAN,2016-06-01,375$,['FG'],SYNTHETIC,209g,"['NEYMAR,', 'WELBECK,', 'LEWANDOWSKI,', 'ISCO']"
+Nike,Tiempo Legacy II,2016-05-28,120$,"['AG', 'FG', 'HG']",CALF,0g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Nike,Tiempo Mystic V,2016-05-28,85$,['FG'],COW,0g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Nike,Tiempo Mystiq V IC,2016-05-28,85$,['IN'],COW,0g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Nike,Tiempo Mystiq V TF,2016-05-28,85$,['IN'],COW,0g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Nike,Tiempo Genio II Leather,2016-05-28,65$,"['FG', 'HG']",COW,0g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Adidas,ACE 16.3 IN,2016-05-24,80$,['IN'],SYNTHETIC,260g,[None]
+Adidas,ACE 16.3 TF,2016-05-24,80$,['TF'],SYNTHETIC,300g,[None]
+Adidas,ACE 16.1 PrimeKnit,2016-05-24,225$,"['FG', 'SG']",KNIT,198g,"['OSCAR,', 'FERNANDO TORRES,', 'XABI ALONSO,', 'MESUT OZIL,', 'JAMES RODRIGUES']"
+Adidas,X 16.3 IN,2016-05-24,80$,['IN'],SYNTHETIC,260g,[None]
+Adidas,X 16.3 TF,2016-05-24,80$,['TF'],SYNTHETIC,300g,[None]
+Adidas,Messi 16.1,2016-05-24,200$,"['AG', 'FG', 'SG']",SYNTHETIC,192g,['MESSI']
+Adidas,Messi 16.3 IN,2016-05-24,80$,['IN'],SYNTHETIC,260g,[None]
+Adidas,Messi 16.3 TF,2016-05-24,80$,['TF'],SYNTHETIC,300g,[None]
+Adidas,ACE 16.1,2016-05-24,200$,"['AG', 'FG', 'SG']",SYNTHETIC,192g,[None]
+Adidas,X 16.1,2016-05-24,200$,"['AG', 'FG', 'SG']",SYNTHETIC,198g,[None]
+Nike,Tiempo Genio II Leather IC,2016-05-28,65$,['IN'],COW,0g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Nike,Tiempo Genio II Leather TF,2016-05-28,65$,['IN'],COW,0g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Nike,Tiempo Rio III,2016-05-28,45$,['FG'],SYNTHETIC,0g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Nike,Tiempo Rio III IC,2016-05-28,45$,['IN'],SYNTHETIC,0g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Nike,Tiempo Rio III TF,2016-05-28,45$,['TF'],SYNTHETIC,0g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Nike,Magista Ola,2016-05-28,55$,['FG'],SYNTHETIC,0g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,Magista Ola IC,2016-05-28,55$,['IN'],SYNTHETIC,0g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,Magista Ola TF,2016-05-28,55$,['TF'],SYNTHETIC,0g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,Hypervenom Phade II TF,2016-05-28,55$,['TF'],SYNTHETIC,0g,"['NEYMAR,', 'WELBECK,', 'LEWANDOWSKI,', 'ISCO']"
+Nike,Mercurial Veloce III Dynamic Fit,2016-05-28,170$,"['AG', 'FG', 'SG']",SYNTHETIC,0g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Mercurial Victory VI,2016-05-28,80$,"['AG', 'FG', 'SG']",SYNTHETIC,0g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Mercurial Victory VI IC,2016-05-28,80$,['IN'],SYNTHETIC,0g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Mercurial Victory VI TF,2016-05-28,80$,['TF'],SYNTHETIC,0g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Mercurial Vortex III,2016-05-28,55$,['FG'],SYNTHETIC,0g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Mercurial Vortex III IC,2016-05-28,55$,['IN'],SYNTHETIC,0g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Mercurial Vortex III TF,2016-05-28,55$,['TF'],SYNTHETIC,0g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Magista Opus II,2016-07-24,230$,"['AG', 'FG', 'SG']",SYNTHETIC,0g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Adidas,ACE 16+ PureControl Paris Pack,2016-06-20,300$,"['FG', 'SG']",KNIT,224g,"['OSCAR,', 'FERNANDO TORRES,', 'XABI ALONSO,', 'MESUT OZIL,', 'JAMES RODRIGUES']"
+Adidas,X 16+ PureChaos,2016-07-15,300$,"['FG', 'SG']",SYNTHETIC,192g,[None]
+Adidas,X 16+ PureChaos Paris Pack,2016-06-20,300$,"['FG', 'SG']",SYNTHETIC,192g,[None]
+Adidas,Gloro 16.1,2016-07-10,110$,"['FG', 'SG']",KANGAROO,238g,[None]
+Nike,Mercurial Superfly V,2016-08-16,300$,"['AG', 'FG', 'SG']",KNIT,0g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Tiempo Legend VI,2016-10-03,210$,"['AG', 'FG', 'HG', 'SG']",KANGAROO,244g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Nike,Hypervenom Phinish II,2016-08-16,200$,"['AG', 'FG']",SYNTHETIC,0g,"['NEYMAR,', 'WELBECK,', 'LEWANDOWSKI,', 'ISCO']"
+Nike,Magista Opus II,2016-08-05,230$,"['AG', 'FG', 'SG']",SYNTHETIC,0g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Adidas,Messi 16.1,2016-09-25,200$,"['AG', 'FG', 'SG']",SYNTHETIC,192g,['MESSI']
+Nike,HyperVenom Phantom II,2016-08-16,275$,"['AG', 'FG', 'SG']",SYNTHETIC,209g,"['NEYMAR,', 'WELBECK,', 'LEWANDOWSKI,', 'ISCO']"
+Adidas,X 16+ PureChaos,2016-08-01,300$,"['FG', 'SG']",SYNTHETIC,192g,[None]
+Nike,MagistaX Proximo II TF,2016-07-24,175$,['TF'],SYNTHETIC,0g,[None]
+Nike,MagistaX Finale II TF,2016-07-24,100$,['TF'],SYNTHETIC,0g,[None]
+Nike,MagistaX Finale II IC,2016-07-24,100$,['IN'],SYNTHETIC,0g,[None]
+Nike,Magista Opus II,2016-08-16,230$,"['AG', 'FG', 'SG']",SYNTHETIC,0g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,Magista Obra II,2016-07-24,275$,"['AG', 'FG', 'SG']",SYNTHETIC,0g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,MercurialX Proximo II TF,2016-05-28,175$,['TF'],KNIT,0g,[None]
+Nike,MercurialX Proximo II IC,2016-05-28,175$,['IN'],KNIT,0g,[None]
+Nike,MercurialX Finale II TF,2016-05-28,100$,['TF'],KNIT,0g,[None]
+Nike,MercurialX Finale II IC,2016-05-28,100$,"['IN', 'TF']",KNIT,0g,[None]
+Adidas,Messi 16.2,2016-07-15,130$,"['AG', 'FG']",SYNTHETIC,0g,['MESSI']
+Adidas,ACE 16.1 PrimeKnit Womens,2016-07-15,225$,"['FG', 'SG']",KNIT,198g,"['OSCAR,', 'FERNANDO TORRES,', 'XABI ALONSO,', 'MESUT OZIL,', 'JAMES RODRIGUES']"
+Adidas,Messi 16.3,2016-09-25,80$,['FG'],SYNTHETIC,0g,['MESSI']
+Adidas,ACE 16.1 Fluid Black,2016-04-14,220$,['FG'],SYNTHETIC,192g,[None]
+Adidas,ACE 16.1 Primesh Street Paris Pack,2016-06-20,150$,['IN'],SYNTHETIC,0g,[None]
+Adidas,X 16.1 Street Paris Pack,2016-06-20,150$,['IN'],SYNTHETIC,0g,[None]
+Adidas,ACE 16.1 PrimeKnit,2016-07-15,225$,"['FG', 'SG']",KNIT,198g,"['OSCAR,', 'FERNANDO TORRES,', 'XABI ALONSO,', 'MESUT OZIL,', 'JAMES RODRIGUES']"
+Adidas,ACE 16.1 PrimeKnit,2016-08-01,225$,"['FG', 'SG']",KNIT,198g,"['OSCAR,', 'FERNANDO TORRES,', 'XABI ALONSO,', 'MESUT OZIL,', 'JAMES RODRIGUES']"
+Adidas,Messi 16.2,2016-09-25,130$,['FG'],SYNTHETIC,0g,['MESSI']
+Adidas,ACE 16.1,2016-07-15,220$,"['AG', 'FG', 'SG']",SYNTHETIC,192g,[None]
+Adidas,ACE 16.1 Leather,2016-07-15,200$,"['AG', 'FG', 'SG']",KANGAROO,193g,[None]
+Puma,evoSPEED Fresh,2016-08-16,150$,['FG'],SYNTHETIC,0g,"['REUS,', 'FALCAO,', 'AGUERO']"
+Puma,evoSPEED Fresh,2016-08-16,150$,['FG'],SYNTHETIC,0g,"['REUS,', 'FALCAO,', 'AGUERO']"
+Adidas,Messi 16+ PureAgility,2016-07-15,300$,"['FG', 'SG']",SYNTHETIC,192g,['MESSI']
+Adidas,ACE 16.1 Leather,2016-03-13,200$,"['AG', 'FG', 'SG']",KANGAROO,193g,[None]
+Puma,evoSPEED SL II Celebration Pack LE,2016-07-01,250$,['FG'],SYNTHETIC,103g,"['REUS,', 'FALCAO,', 'AGUERO']"
+Puma,evoPOWER 1.3 Celebration Pack LE,2016-07-01,250$,['FG'],SYNTHETIC,205g,"['FABREGAS,', 'BALOTELLI,', 'GIROUD,', 'YAYA TOURE.TOURE']"
+Puma,evoTOUCH Pro,2016-09-16,250$,"['AG', 'FG', 'SG']",KANGAROO,212g,[None]
+Puma,King Maradona Super,2016-06-30,200$,['FG'],KANGAROO,0g,['MARADONA']
+Puma,King Top City di Paris,2016-06-14,160$,['FG'],KANGAROO,0g,[None]
+Puma,King Top City di Marseille,2016-06-14,160$,['FG'],KANGAROO,0g,[None]
+Puma,King Top City di Lyon,2016-06-14,160$,['FG'],KANGAROO,0g,[None]
+Puma,King Top City di Bordeaux,2016-06-14,160$,['FG'],KANGAROO,0g,[None]
+Nike,MagistaX Finale II TF,2016-07-24,100$,['TF'],SYNTHETIC,0g,[None]
+Nike,MagistaX Finale II IC,2016-07-24,100$,['IN'],SYNTHETIC,0g,[None]
+Nike,MercurialX Proximo II IC,2016-07-05,175$,['IN'],KNIT,0g,[None]
+Nike,TiempoX Proximo IC,2016-07-05,140$,['IN'],KANGAROO,0g,[None]
+Nike,Mercurial Superfly V,2016-07-05,275$,"['AG', 'FG', 'SG']",KNIT,0g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Hypervenom Phantom II,2016-07-05,275$,"['AG', 'FG', 'SG']",SYNTHETIC,209g,"['NEYMAR,', 'WELBECK,', 'LEWANDOWSKI,', 'ISCO']"
+Nike,Tiempo Legacy II,2016-07-05,120$,"['AG', 'FG', 'HG']",CALF,0g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Nike,Tiempo Mystic V,2016-07-05,85$,['FG'],COW,0g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Nike,Tiempo Genio II Leather TF,2016-07-05,65$,['IN'],COW,0g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Nike,Mercurial Veloce III Dynamic Fit,2016-07-05,170$,"['AG', 'FG']",SYNTHETIC,0g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Mercurial Victory VI,2016-07-05,80$,"['AG', 'FG', 'SG']",SYNTHETIC,0g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Mercurial Victory VI IC,2016-07-05,80$,['IN'],SYNTHETIC,0g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Mercurial Victory VI TF,2016-07-05,80$,['TF'],SYNTHETIC,0g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,MercurialX Proximo II TF,2016-07-05,175$,['TF'],KNIT,0g,[None]
+Nike,MercurialX Finale II IC,2016-07-05,100$,['IN'],KNIT,0g,[None]
+Nike,MercurialX Finale II TF,2016-07-05,100$,['TF'],KNIT,0g,[None]
+Nike,Hypervenom Phatal II Dynamic Fit,2016-07-05,170$,['FG'],SYNTHETIC,0g,"['NEYMAR,', 'WELBECK,', 'LEWANDOWSKI,', 'ISCO']"
+Nike,Hypervenom Phatal II,2016-07-05,130$,['FG'],SYNTHETIC,0g,"['NEYMAR,', 'WELBECK,', 'LEWANDOWSKI,', 'ISCO']"
+Nike,Hypervenom Phelon II,2016-07-05,75$,['FG'],SYNTHETIC,0g,"['NEYMAR,', 'WELBECK,', 'LEWANDOWSKI,', 'ISCO']"
+Nike,Hypervenom Phelon II IC,2016-07-05,75$,['IN'],SYNTHETIC,0g,"['NEYMAR,', 'WELBECK,', 'LEWANDOWSKI,', 'ISCO']"
+Nike,Hypervenom Phelon II TF,2016-07-05,75$,['TF'],SYNTHETIC,0g,"['NEYMAR,', 'WELBECK,', 'LEWANDOWSKI,', 'ISCO']"
+Adidas,Ace 16+ PureControl,2016-08-01,300$,"['FG', 'SG']",KNIT,224g,"['OSCAR,', 'FERNANDO TORRES,', 'XABI ALONSO,', 'MESUT OZIL,', 'JAMES RODRIGUES']"
+Nike,HypervenomX Proximo TF,2016-07-05,150$,['TF'],SYNTHETIC,0g,[None]
+Nike,HypervenomX Finale IC,2016-07-05,100$,['IN'],SYNTHETIC,0g,[None]
+Nike,HypervenomX Finale TF,2016-07-05,100$,['TF'],SYNTHETIC,0g,[None]
+Adidas,ACE 16.3 PrimeMesh IN,2016-07-10,80$,['IN'],SYNTHETIC,295g,[None]
+Adidas,ACE 16.3 PrimeMesh TF,2016-07-10,80$,['TF'],SYNTHETIC,295g,[None]
+Adidas,ACE 16.3 TF,2016-07-10,70$,['TF'],SYNTHETIC,312g,[None]
+Adidas,Messi 16.1 ST,2016-07-03,110$,['ST'],KNIT,295g,[None]
+Adidas,X 16+ PureChaos,2016-07-13,300$,"['FG', 'SG']",SYNTHETIC,193g,"['THOMAS MULLER,', 'GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA,', 'MARCELO,', 'DAVID VILLA']"
+Adidas,X 16.3 CT,2016-07-13,60$,['IN'],SYNTHETIC,260g,[None]
+Adidas,X 16.3 IN,2016-07-13,80$,['IN'],SYNTHETIC,260g,[None]
+Adidas,X 16.3 TF,2016-07-13,80$,['TF'],SYNTHETIC,295g,[None]
+Adidas,Messi 16.3 TF,2016-07-10,80$,['TF'],SYNTHETIC,289g,[None]
+Adidas,Messi 16.3 TF,2016-07-10,80$,['TF'],SYNTHETIC,289g,[None]
+Adidas,Messi 16.3 IN,2016-07-10,80$,['IN'],SYNTHETIC,289g,[None]
+Mizuno,Morelia Neo2,2016-07-01,290$,"['FG', 'HG', 'SG']",KANGAROO,215g,['HULK']
+Mizuno,Morelia Neo2,2016-07-01,290$,"['FG', 'HG', 'SG']",KANGAROO,215g,['HULK']
+Mizuno,Morelia Neo2,2016-07-01,290$,"['FG', 'HG', 'SG']",KANGAROO,215g,['HULK']
+Mizuno,Morelia Neo KL AG,2016-07-01,100$,['AG'],KANGAROO,240g,[None]
+Mizuno,Morelia Neo KL AS,2016-07-01,100$,['TF'],KANGAROO,240g,[None]
+Mizuno,Morelia Neo KL Classic AS,2016-07-01,100$,['TF'],KANGAROO,240g,[None]
+Mizuno,Morelia Neo KL IN,2016-07-01,100$,['IN'],KANGAROO,240g,[None]
+Nike,Magista Obra II,2016-08-05,275$,"['AG', 'FG', 'SG']",SYNTHETIC,0g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,Magista Obra II Women's,2016-08-05,300$,['FG'],SYNTHETIC,0g,[None]
+Nike,Magista Orden II,2016-08-05,170$,"['AG', 'FG', 'SG']",SYNTHETIC,0g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,Magista Orden II,2016-07-24,170$,"['AG', 'FG', 'SG']",SYNTHETIC,0g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,MagistaX Proximo II TF,2016-08-05,175$,['TF'],SYNTHETIC,0g,[None]
+Nike,MagistaX Proximo II IC,2016-08-05,175$,['IN'],SYNTHETIC,0g,[None]
+Nike,Tiempo Legend VI Women's,2016-08-05,210$,['FG'],KANGAROO,244g,"[""JULIE JOHNSTON'S""]"
+Nike,Mercurial Superfly V Women's,2016-08-05,300$,['FG'],KNIT,0g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,HyperVenom Phantom II Women's,2016-08-05,275$,['FG'],SYNTHETIC,209g,['NEYMAR']
+Nike,Magista Obra II,2016-11-25,275$,"['AG', 'FG', 'SG']",SYNTHETIC,0g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,Tiempo Legend VI,2016-11-25,210$,"['AG', 'FG', 'HG', 'SG']",KANGAROO,244g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Nike,Mercurial Superfly V,2016-10-03,300$,"['AG', 'FG', 'SG']",KNIT,0g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Magista Obra II,2016-08-16,275$,"['AG', 'FG', 'SG']",SYNTHETIC,0g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,MagistaX Proximo II IC,2016-08-28,175$,['IN'],SYNTHETIC,0g,[None]
+Nike,MercurialX Proximo II IC,2016-08-28,175$,['IN'],KNIT,0g,[None]
+Adidas,X 16+ PureChaos,2016-09-16,300$,"['FG', 'SG']",SYNTHETIC,193g,"['THOMAS MULLER,', 'GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA,', 'MARCELO,', 'DAVID VILLA']"
+Adidas,ACE 16.1 PrimeKnit,2016-09-16,225$,"['FG', 'SG']",KNIT,198g,"['OSCAR,', 'FERNANDO TORRES,', 'XABI ALONSO,', 'MESUT OZIL,', 'JAMES RODRIGUES']"
+Adidas,Ace 16+ PureControl,2016-09-16,300$,"['FG', 'SG']",KNIT,224g,"['OSCAR,', 'FERNANDO TORRES,', 'XABI ALONSO,', 'MESUT OZIL,', 'JAMES RODRIGUES']"
+Adidas,Ace 16+ PureControl,2016-09-16,300$,"['FG', 'SG']",KNIT,224g,"['OSCAR,', 'FERNANDO TORRES,', 'XABI ALONSO,', 'MESUT OZIL,', 'JAMES RODRIGUES']"
+Adidas,X 16+ PureChaos,2016-09-16,300$,"['FG', 'SG']",SYNTHETIC,193g,"['THOMAS MULLER,', 'GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA,', 'MARCELO,', 'DAVID VILLA']"
+Adidas,X 16.1,2016-09-16,200$,"['AG', 'FG', 'SG']",SYNTHETIC,198g,[None]
+Adidas,X 16.1 Leather,2016-09-16,200$,"['AG', 'FG', 'SG']",KANGAROO,198g,[None]
+Adidas,ACE 16.1 Leather,2016-09-16,200$,"['AG', 'FG', 'SG']",KANGAROO,193g,[None]
+Adidas,ACE 16.1 PrimeKnit,2016-09-16,225$,"['FG', 'SG']",KNIT,198g,"['OSCAR,', 'FERNANDO TORRES,', 'XABI ALONSO,', 'MESUT OZIL,', 'JAMES RODRIGUES']"
+Nike,TiempoX Proximo IC,2016-08-28,140$,['IN'],KANGAROO,0g,[None]
+Nike,HypervenomX Proximo IC,2016-08-28,150$,['IN'],SYNTHETIC,0g,[None]
+Nike,MagistaX Proximo II IC,2016-11-24,175$,['IN'],SYNTHETIC,0g,[None]
+Nike,MagistaX Proximo II TF,2016-11-24,175$,['TF'],SYNTHETIC,0g,[None]
+Nike,TiempoX Proximo IC,2016-11-24,140$,['IN'],KANGAROO,0g,[None]
+Nike,TiempoX Proximo TF,2016-11-24,140$,['TF'],KANGAROO,0g,[None]
+Nike,MercurialX Proximo II IC,2016-11-24,175$,['IN'],KNIT,0g,[None]
+Nike,MercurialX Proximo II TF,2016-11-24,175$,['TF'],KNIT,0g,[None]
+Adidas,Ace 17+ PureControl,2016-11-25,300$,"['FG', 'SG']",KNIT,0g,"['OZIL,', 'POGBA,', 'DELE ALLI']"
+Adidas,Ace 17.1 Leather,2016-11-25,200$,['FG'],KANGAROO,0g,"['OZIL,', 'POGBA,', 'DELE ALLI']"
+Adidas,Ace 17.1 Primeknit,2016-11-25,200$,['FG'],KNIT,0g,"['OZIL,', 'POGBA,', 'DELE ALLI']"
+Adidas,Messi 16+ PureAgility,2016-11-25,300$,"['FG', 'SG']",SYNTHETIC,192g,['MESSI']
+Adidas,Messi 16.1,2016-11-25,200$,"['AG', 'FG', 'SG']",SYNTHETIC,192g,['MESSI']
+Adidas,X 16+ PureChaos,2016-11-25,300$,"['FG', 'SG']",SYNTHETIC,193g,"['THOMAS MULLER,', 'GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA,', 'MARCELO,', 'DAVID VILLA']"
+Adidas,X 16.1 Leather,2016-11-25,200$,"['AG', 'FG', 'SG']",KANGAROO,198g,[None]
+Adidas,X 16.1,2016-11-25,200$,"['AG', 'FG', 'SG']",SYNTHETIC,198g,[None]
+Nike,Mercurial Superfly V,2016-11-25,300$,"['AG', 'FG', 'SG']",KNIT,0g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Adidas,Ace Tango 17+ PureControl Indoor,2016-11-25,180$,['IN'],KNIT,0g,"['OZIL,', 'POGBA,', 'DELE ALLI']"
+Adidas,Ace Tango 17+ PureControl Turf,2016-11-25,180$,['TF'],KNIT,0g,"['OZIL,', 'POGBA,', 'DELE ALLI']"
+Adidas,Messi 16+ PureAgility,2017-01-26,300$,"['FG', 'SG']",SYNTHETIC,192g,['MESSI']
+Adidas,Copa 17.1,2016-12-21,220$,['FG'],KANGAROO,0g,[None]
+Adidas,Copa Tango 17.1 Indoor,2016-12-21,160$,['IN'],KANGAROO,0g,[None]
+Adidas,Copa Tango 17.1 Indoor,2016-11-16,160$,['IN'],KANGAROO,0g,[None]
+Adidas,Copa 17.1,2016-11-16,220$,['FG'],KANGAROO,0g,[None]
+Adidas,Copa 17.1,2017-01-02,200$,['FG'],KANGAROO,0g,[None]
+Adidas,X 16.1 ,2017-01-02,220$,"['AG', 'FG', 'SG']",SYNTHETIC,0g,"['GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA']"
+Adidas,X 16+ PureChaos,2017-01-02,300$,"['FG', 'SG']",SYNTHETIC,193g,"['THOMAS MULLER,', 'GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA,', 'MARCELO,', 'DAVID VILLA']"
+Adidas,Ace 17+ PureControl,2017-01-02,300$,"['FG', 'SG']",KNIT,0g,"['OZIL,', 'POGBA,', 'DELE ALLI']"
+Nike,Mercurial Superfly V,2017-01-30,300$,"['AG', 'FG', 'SG']",KNIT,0g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Premier,2016-12-19,110$,['FG'],KANGAROO,0g,[None]
+Nike,Premier,2016-12-19,110$,['FG'],KANGAROO,0g,[None]
+Nike,Magista Obra II,2016-10-03,275$,"['AG', 'FG', 'SG']",SYNTHETIC,0g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,Tiempo Legend VI,2017-01-30,210$,"['AG', 'FG', 'HG', 'SG']",KANGAROO,244g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Nike,HyperVenom Phantom II NJR X JORDAN,2016-10-11,300$,['FG'],SYNTHETIC,209g,['NEYMAR']
+Nike,HypervenomX Proximo NJR x JORDAN IC,2016-10-11,150$,['TF'],KNIT,0g,['NEYMAR']
+Nike,TiempoX Proximo TF,2016-10-07,140$,['TF'],KANGAROO,0g,[None]
+Nike,TiempoX Proximo IC,2016-10-07,140$,['IN'],KANGAROO,0g,[None]
+Nike,HypervenomX Proximo TF,2016-10-07,150$,['TF'],SYNTHETIC,0g,[None]
+Nike,HypervenomX Proximo IC,2016-10-07,150$,['IN'],SYNTHETIC,0g,[None]
+Nike,HypervenomX Proximo IC,2016-09-26,150$,['IN'],SYNTHETIC,0g,[None]
+Nike,HypervenomX Proximo TF,2016-09-26,150$,['TF'],SYNTHETIC,0g,[None]
+Nike,TiempoX Proximo IC,2016-09-26,140$,['IN'],KANGAROO,0g,[None]
+Nike,TiempoX Proximo TF,2016-09-26,140$,['TF'],KANGAROO,0g,[None]
+Nike,HypervenomX Finale IC,2016-10-07,100$,['IN'],SYNTHETIC,0g,[None]
+Nike,HypervenomX Finale TF,2016-10-07,100$,['TF'],SYNTHETIC,0g,[None]
+Nike,Magista Obra II Tech Craft 2.0,2016-11-17,315$,['FG'],SYNTHETIC,0g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,Hypervenom Phantom II Tech Craft 2.0,2016-11-17,300$,['FG'],SYNTHETIC,209g,"['NEYMAR,', 'WELBECK,', 'LEWANDOWSKI,', 'ISCO']"
+Nike,Tiempo Legend VI Tech Craft 2.0,2016-11-17,200$,['FG'],KANGAROO,244g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Nike,Hypervenom Phantom III Women's,2017-02-01,260$,['FG'],KNIT,0g,[None]
+Nike,Hypervenom Phantom III Women's,2017-02-01,300$,['FG'],KNIT,0g,[None]
+Adidas,Copa 17.1,2017-01-26,220$,['FG'],KANGAROO,0g,[None]
+Nike,Tiempo Legend VI Women's,2017-01-30,210$,['FG'],KANGAROO,244g,[None]
+Nike,Magista Obra II,2017-01-30,275$,"['AG', 'FG', 'SG']",SYNTHETIC,0g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Puma,evoTOUCH Pro,2016-11-21,250$,"['AG', 'FG', 'SG']",KANGAROO,212g,[None]
+Puma,evoTOUCH Pro,2017-02-01,250$,"['AG', 'FG', 'SG']",KANGAROO,212g,[None]
+Adidas,X 17.1 Women's,2016-12-01,200$,['FG'],SYNTHETIC,0g,[None]
+Adidas,Ace 17.1 Leather Women's,2016-12-01,200$,['FG'],"KANGAROO,",0g,"['OZIL,', 'POGBA,', 'DELE ALLI']"
+Adidas,Ace 17+ PureControl Pogba Signature,2017-01-14,330$,['FG'],KNIT,0g,"['OZIL,', 'POGBA,', 'DELE ALLI']"
+Adidas,Ace Tango 17.1 Trainer Pogba Signature,2017-01-14,150$,['ST'],KNIT,0g,[None]
+Adidas,Copa 17.2,2017-01-02,100$,['FG'],CALF,0g,[None]
+Adidas,X 17.2 Women's,2016-12-01,100$,['FG'],SYNTHETIC,0g,[None]
+Puma,evoTOUCH Pro Fabregs Derby Boots,2017-01-31,250$,['FG'],KANGAROO,212g,[None]
+Nike,MagistaX Finale II IC,2016-10-07,100$,['IN'],SYNTHETIC,0g,[None]
+Nike,MagistaX Finale II TF,2016-10-07,100$,['TF'],SYNTHETIC,0g,[None]
+Nike,MagistaX Finale II TF,2016-10-03,100$,['TF'],SYNTHETIC,0g,[None]
+Nike,MagistaX Finale II IC,2016-10-03,100$,['IN'],SYNTHETIC,0g,[None]
+Nike,MagistaX Finale II IC,2016-11-24,100$,['IN'],SYNTHETIC,0g,[None]
+Nike,MagistaX Finale II TF,2016-11-24,100$,['TF'],SYNTHETIC,0g,[None]
+Nike,MagistaX Proximo II Tech Craft 2.0 TF,2016-11-17,175$,['TF'],SYNTHETIC,0g,[None]
+Nike,MagistaX Proximo II Tech Craft 2.0 IC,2016-11-17,175$,['IN'],SYNTHETIC,0g,[None]
+Nike,MercurialX Proximo II Tech Craft 2.0 TF,2016-11-17,175$,['TF'],KNIT,0g,[None]
+Nike,MercurialX Proximo II Tech Craft 2.0 IC,2016-11-17,175$,['IN'],KNIT,0g,[None]
+Nike,TiempoX Proximo Tech Craft 2.0 TF,2016-11-17,140$,['TF'],KANGAROO,0g,[None]
+Nike,TiempoX Proximo Tech Craft 2.0 IC,2016-11-17,140$,['IN'],KANGAROO,0g,[None]
+Nike,HypervenomX Finale IC,2016-11-24,100$,['IN'],SYNTHETIC,0g,[None]
+Nike,HypervenomX Finale TF,2016-11-24,100$,['TF'],SYNTHETIC,0g,[None]
+Nike,MercurialX Finale II IC,2016-11-24,100$,['IN'],SYNTHETIC,0g,[None]
+Nike,MercurialX Finale II TF,2016-11-24,100$,['TF'],SYNTHETIC,0g,[None]
+Nike,MercurialX Proximo II CR7 IC,2016-11-07,185$,['IN'],KNIT,0g,[None]
+Nike,MercurialX Finale II IC,2016-10-03,100$,['IN'],SYNTHETIC,0g,[None]
+Nike,MercurialX Finale II TF,2016-10-03,100$,['TF'],SYNTHETIC,0g,[None]
+Nike,MercurialX Proximo II TF,2016-10-03,175$,['TF'],KNIT,0g,[None]
+Nike,MercurialX Proximo II IC,2016-10-03,175$,['IN'],KNIT,0g,[None]
+Nike,HypervenomX Proximo Tech Craft 2.0 TF,2016-11-17,150$,['TF'],SYNTHETIC,0g,[None]
+Nike,HypervenomX Proximo Tech Craft 2.0 IC,2016-11-17,150$,['IN'],SYNTHETIC,0g,[None]
+Nike,Mercurial Superfly V Tech Craft 2.0,2016-11-17,315$,['FG'],KNIT,0g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Mercurial Superfly V CR7,2016-11-07,325$,['FG'],KNIT,0g,['RONALDO']
+Nike,Mercurial Vapor XI CR7,2016-11-07,255$,['FG'],SYNTHETIC,0g,['RONALDO']
+Nike,Mercurial Veloce III Dynamic Fit CR7,2016-11-07,180$,['FG'],SYNTHETIC,0g,['RONALDO']
+Nike,TiempoX Proximo IC SE Pirlo Edition,2016-09-19,175$,['IN'],KANGAROO,0g,['PIRLO']
+Nike,Tiempo Legend VI SE Pirlo Edition,2016-09-19,275$,['FG'],KANGAROO,244g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Nike,HypervenomX Proximo TF,2016-11-24,150$,['TF'],SYNTHETIC,0g,[None]
+Nike,HypervenomX Proximo IC,2016-11-24,150$,['IN'],SYNTHETIC,0g,[None]
+Nike,MercurialX Finale II TF,2016-10-07,100$,['TF'],SYNTHETIC,0g,[None]
+Nike,MercurialX Finale II IC,2016-10-07,100$,['IN'],SYNTHETIC,0g,[None]
+Nike,MercurialX Proximo II IC,2016-10-07,175$,['IN'],KNIT,0g,[None]
+Nike,MercurialX Proximo II TF,2016-10-07,175$,['TF'],KNIT,0g,[None]
+Nike,MagistaX Proximo II TF,2016-10-07,175$,['TF'],SYNTHETIC,0g,[None]
+Nike,MagistaX Proximo II IC,2016-10-07,175$,['IN'],SYNTHETIC,0g,[None]
+Nike,MagistaX Proximo II TF,2016-10-03,175$,['TF'],SYNTHETIC,0g,[None]
+Nike,MagistaX Proximo II IC,2016-10-03,175$,['IN'],SYNTHETIC,0g,[None]
+Nike,HypervenomX Finale TF,2016-10-03,100$,['TF'],SYNTHETIC,0g,[None]
+Nike,HypervenomX Finale IC,2016-10-03,100$,['IN'],SYNTHETIC,0g,[None]
+Puma,evoSPEED 17 SL,2016-12-16,250$,"['AG', 'FG', 'SG']",SYNTHETIC,0g,"['REUS,', 'FALCAO,', 'AGUERO']"
+Puma,evoSPEED 17 SL K-Leather,2016-12-16,260$,"['AG', 'FG', 'SG']",SYNTHETIC,0g,"['REUS,', 'FALCAO,', 'AGUERO']"
+Puma,evoPOWER Vigor,2017-01-16,240$,"['AG', 'FG', 'SG']",SYNTHETIC,0g,"['BALOTELLI,', 'GIROUD,', 'YAYA TOURE.TOURE']"
+Puma,evoPOWER Vigor Camo,2017-01-16,240$,['FG'],SYNTHETIC,0g,"['BALOTELLI,', 'GIROUD,', 'YAYA TOURE.TOURE']"
+Puma,evoPOWER Vigor,2017-01-19,240$,"['AG', 'FG', 'SG']",SYNTHETIC,0g,"['BALOTELLI,', 'GIROUD,', 'YAYA TOURE.TOURE']"
+Puma,evoSPEED SL II Anoine Griezmann,2016-11-14,0$,['FG'],SYNTHETIC,107g,"['REUS,', 'FALCAO,', 'AGUERO,', 'GRIEZMANN']"
+Puma,evoTOUCH Pro,2017-04-01,250$,"['AG', 'FG', 'SG']",KANGAROO,212g,"['FABREGAS,', 'CAZOLA']"
+Nike,Hypervenom Phatal III DF Women's,2017-02-01,170$,['FG'],SYNTHETIC,0g,[None]
+Puma,evoPOWER Vigor,2017-04-01,240$,"['AG', 'FG', 'SG']",SYNTHETIC,0g,"['BALOTELLI,', 'GIROUD,', 'YAYA TOURE.TOURE']"
+Puma,evoPOWER Vigor 3D,2017-04-01,275$,"['AG', 'FG', 'SG']",SYNTHETIC,0g,"['BALOTELLI,', 'GIROUD,', 'YAYA TOURE.TOURE']"
+Puma,evoPOWER Vigor 3D,2017-05-01,275$,"['AG', 'FG', 'SG']",SYNTHETIC,0g,"['BALOTELLI,', 'GIROUD,', 'YAYA TOURE.TOURE']"
+Nike,Hypervenom Phantom III DF,2017-01-30,250$,"['AG', 'FG', 'SG']",KNIT,0g,"['LEWANDOWSKI,', 'ROONEY']"
+Nike,Hypervenom Phantom III,2017-04-01,250$,['FG'],KNIT,0g,[None]
+Puma,evoPOWER Vigor,2017-04-01,0$,['FG'],SYNTHETIC,0g,"['BALOTELLI,', 'GIROUD,', 'YAYA TOURE.TOURE']"
+Nike,Magista Obra II,2017-07-01,275$,"['AG', 'FG', 'SG']",SYNTHETIC,0g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,Tiepo Mystic V IC,2017-01-30,85$,['IN'],SYNTHETIC,0g,[None]
+Nike,Tiepo Mystic V TF,2017-01-30,85$,['TF'],SYNTHETIC,0g,[None]
+Adidas,Ace Tango 17.1 Indoor,2016-11-25,130$,['IN'],SYNTHETIC,0g,[None]
+Adidas,Copa Tango 17.1 Indoor,2017-01-02,160$,['IN'],KANGAROO,0g,[None]
+Adidas,Copa Tango 17.1 Turf,2017-01-02,160$,['TF'],KANGAROO,0g,[None]
+Adidas,Copa Gloro 17.2,2017-02-03,100$,['FG'],CALF,0g,[None]
+Adidas,Messi 16.1,2017-01-26,200$,"['AG', 'FG', 'SG']",SYNTHETIC,192g,['MESSI']
+Adidas,Messi 16+ PureAgility,2016-10-10,0$,['FG'],SYNTHETIC,192g,['MESSI']
+Adidas,Messi 16+ PureAgility,2016-09-25,300$,['FG'],SYNTHETIC,192g,['MESSI']
+Adidas,Ace Tango 17.1 Turf,2016-11-25,130$,['TF'],SYNTHETIC,0g,[None]
+Adidas,Ace Tango 17.2 Turf,2016-11-25,80$,['TF'],SYNTHETIC,0g,[None]
+Adidas,Ace Tango 17.2 Training,2016-11-25,85$,['ST'],SYNTHETIC,0g,[None]
+Adidas,Ace 17.3 Primemesh Turf,2017-01-02,90$,['TF'],SYNTHETIC,0g,[None]
+Adidas,Ace 17.3 Primemesh Indoor,2017-01-02,90$,['IN'],SYNTHETIC,0g,[None]
+Adidas,Ace 17.1 Primeknit,2017-01-02,200$,['FG'],KNIT,0g,"['OZIL,', 'POGBA,', 'DELE ALLI']"
+Adidas,Ace 17.2 Primemesh,2017-01-02,130$,['FG'],SYNTHETIC,0g,"['OZIL,', 'POGBA,', 'DELE ALLI']"
+Adidas,X 16.2,2017-01-02,150$,['FG'],SYNTHETIC,0g,"['GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA']"
+Adidas,X 16.3,2017-01-02,90$,['FG'],SYNTHETIC,0g,"['GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA']"
+Adidas,X 16.3 Truf,2017-01-02,100$,['TF'],SYNTHETIC,0g,"['GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA']"
+Adidas,X 16.3 Indoor,2017-01-02,100$,['IN'],SYNTHETIC,0g,"['GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA']"
+Adidas,Ace 17.3 Primemesh,2016-11-25,80$,['FG'],SYNTHETIC,0g,[None]
+Adidas,Ace 17.3 Primemesh,2017-01-02,90$,['FG'],SYNTHETIC,0g,[None]
+Adidas,Copa 17.4,2017-01-02,60$,['FG'],SYNTHETIC,0g,[None]
+Adidas,Copa Tango 17.2 Training,2016-11-16,90$,['ST'],SYNTHETIC,0g,[None]
+Adidas,Copa Tango 17.2 Training,2017-01-02,90$,['ST'],SYNTHETIC,0g,[None]
+Adidas,Gloro 15.1,2016-10-28,130$,['FG'],KANGAROO,238g,[None]
+Adidas,Gloro 15.1,2016-08-30,100$,['FG'],KANGAROO,238g,[None]
+Adidas,Gloro 15.1,2016-10-13,100$,['FG'],KANGAROO,238g,[None]
+Adidas,Copa Gloro 17.2,2017-02-01,100$,['FG'],CALF,0g,[None]
+Adidas,X 16.1,2017-01-26,200$,"['AG', 'FG', 'SG']",SYNTHETIC,198g,[None]
+Adidas,Ace Tango 17+ PureControl Turf,2017-01-26,180$,['TF'],KNIT,0g,"['OZIL,', 'POGBA,', 'DELE ALLI']"
+Adidas,Messi 16.1,2016-09-25,200$,"['AG', 'FG', 'SG']",SYNTHETIC,192g,['MESSI']
+Adidas,Ace Tango 17.1 Training,2016-11-25,130$,['ST'],SYNTHETIC,0g,[None]
+Adidas,Ace Tango 17.1 Training,2017-01-02,130$,['ST'],SYNTHETIC,0g,[None]
+Adidas,X 16+ PureChaos,2017-01-26,300$,"['FG', 'SG']",SYNTHETIC,193g,"['THOMAS MULLER,', 'GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA,', 'MARCELO,', 'DAVID VILLA']"
+Puma,evoSPEED 17 SL,2017-01-09,250$,"['AG', 'FG', 'SG']",SYNTHETIC,0g,"['REUS,', 'FALCAO,', 'AGUERO']"
+Puma,evoSPEED 17 Leather,2017-01-09,240$,['FG'],CALF,0g,"['REUS,', 'FALCAO,', 'AGUERO']"
+Puma,evoSPEED 17 SL S,2017-01-09,200$,['FG'],SYNTHETIC,0g,"['REUS,', 'FALCAO,', 'AGUERO']"
+Puma,evoSPEED 17 K-Leather,2017-03-01,260$,['FG'],CALF,0g,"['REUS,', 'FALCAO,', 'AGUERO']"
+Puma,evoSPEED 17 K-Leather,2017-04-01,260$,['FG'],CALF,0g,"['REUS,', 'FALCAO,', 'AGUERO']"
+Adidas,Ace 17.1 Primeknit,2017-01-26,200$,['FG'],KNIT,0g,"['OZIL,', 'POGBA,', 'DELE ALLI']"
+Under,Armour ClutchFit 3.0 3D,2017-01-11,269$,['FG'],SYNTHETIC,225g,['MEMPHIS DEPAY']
+Adidas,X Tango 16+ Purechaos Indoor,2016-11-25,180$,['IN'],SYNTHETIC,0g,"['GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA']"
+Adidas,X Tango 16+ Purechaos Turf,2016-11-25,180$,['TF'],SYNTHETIC,0g,"['GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA']"
+Adidas,X Tango 16+ Purechaos Turf,2017-01-26,180$,['TF'],SYNTHETIC,0g,"['GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA']"
+Adidas,X Tango 16+ Purechaos Indoor,2017-01-26,180$,['IN'],SYNTHETIC,0g,"['GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA']"
+Adidas,Ace Tango 17.1 Turf,2017-01-26,130$,['TF'],SYNTHETIC,0g,[None]
+Nike,Mercurial Superfly V CR7 Vitorias SE,2017-01-11,350$,['FG'],KNIT,0g,['RONALDO']
+Adidas,Ace 17+ PureControl,2017-01-26,300$,['FG'],KNIT,0g,"['OZIL,', 'POGBA,', 'DELE ALLI']"
+Nike,MercurialX Proximo II IC,2017-01-30,175$,['IN'],KNIT,0g,[None]
+Nike,Magista Opus II,2017-01-30,230$,"['AG', 'FG', 'SG']",SYNTHETIC,0g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,Mercurial Superfly V CR7,2017-04-01,325$,['FG'],KNIT,0g,['RONALDO']
+Adidas,Ace Tango 17+ PureControl Indoor,2017-01-26,180$,['IN'],KNIT,0g,"['OZIL,', 'POGBA,', 'DELE ALLI']"
+Adidas,Ace Tango 17+ Purecontrol Turf Pogba Signature,2017-01-14,190$,['TF'],KNIT,0g,[None]
+Adidas,Ace 17+ PureControl,2017-03-04,300$,['FG'],KNIT,0g,"['OZIL,', 'POGBA,', 'DELE ALLI']"
+Nike,MercurialX Proximo II IC,2017-03-20,175$,['IN'],KNIT,0g,[None]
+Nike,MagistaX Proximo II IC,2017-01-30,175$,['IN'],SYNTHETIC,0g,[None]
+Nike,MagistaX Proximo II TF,2017-01-30,175$,['TF'],SYNTHETIC,0g,[None]
+Nike,Hypervenom Phantom III,2017-01-30,200$,"['AG', 'FG', 'SG']",KNIT,0g,"['LEWANDOWSKI,', 'ROONEY']"
+Nike,HypervenomX Proximo III IC,2017-01-30,150$,['IN'],KNIT,0g,"['LEWANDOWSKI,', 'ROONEY']"
+Nike,HyperVenom Phinish II WR10 250G,2017-01-22,230$,['FG'],SYNTHETIC,0g,['ROONEY']
+Nike,HypervenomX Proximo III IC,2017-02-20,150$,['IN'],KNIT,0g,"['LEWANDOWSKI,', 'ROONEY']"
+Nike,HypervenomX Proximo III TF,2017-03-20,175$,['TF'],KNIT,0g,"['LEWANDOWSKI,', 'ROONEY']"
+Nike,MagistaX Proximo II IC Heritage,2017-03-20,175$,['IN'],SYNTHETIC,0g,[None]
+Nike,MagistaX Proximo II TF,2017-03-20,175$,['TF'],SYNTHETIC,0g,[None]
+Adidas,Copa Tango 17.1 Turf,2016-11-16,160$,['TF'],KANGAROO,0g,[None]
+Adidas,Copa 17.2,2016-11-26,100$,['FG'],CALF,0g,[None]
+Adidas,Copa Tango 17.1 Indoor,2017-01-26,160$,['IN'],KANGAROO,0g,[None]
+Adidas,Copa Tango 17.1 Indoor,2017-01-02,160$,['IN'],KANGAROO,0g,[None]
+Adidas,Ace 16+ PureControl Space Craft,2016-09-14,300$,['FG'],KANGAROO,224g,"['OSCAR,', 'FERNANDO TORRES,', 'XABI ALONSO,', 'MESUT OZIL,', 'JAMES RODRIGUES']"
+Adidas,X 16+ PureChaos Space Craft,2016-09-14,300$,['FG'],KANGAROO,193g,"['THOMAS MULLER,', 'GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA,', 'MARCELO,', 'DAVID VILLA']"
+Adidas,Ace Tango 17.2 Training,2017-01-02,85$,['ST'],SYNTHETIC,0g,[None]
+Adidas,Ace 17+ PureControl,2017-01-26,300$,['FG'],KNIT,0g,"['OZIL,', 'POGBA,', 'DELE ALLI']"
+Adidas,Ace 17.1 Leather,2017-01-26,200$,['FG'],KANGAROO,0g,"['OZIL,', 'POGBA,', 'DELE ALLI']"
+Adidas,Ace Tango 17.1 Training,2017-01-26,130$,['ST'],SYNTHETIC,0g,[None]
+Adidas,Ace Tango 17.2 Training,2017-01-26,85$,['ST'],SYNTHETIC,0g,[None]
+Adidas,X 16.1 Leather,2017-01-26,200$,"['AG', 'FG', 'SG']",KANGAROO,198g,[None]
+Adidas,X 16.3 Truf,2017-01-26,100$,['TF'],SYNTHETIC,0g,"['GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA']"
+Adidas,Ace Tango 17.1 Indoor,2017-01-26,130$,['IN'],SYNTHETIC,0g,[None]
+Adidas,Ace Tango 17.2 Turf,2017-01-26,80$,['TF'],SYNTHETIC,0g,[None]
+Adidas,Ace Tango 17.2 Indoor,2017-01-26,80$,['IN'],SYNTHETIC,0g,[None]
+Adidas,Copa Tango 17.1 Turf,2017-01-26,160$,['TF'],KANGAROO,0g,[None]
+Adidas,Copa Tango 17.2 Training,2017-01-26,90$,['ST'],SYNTHETIC,0g,[None]
+Nike,HypervenomX Proximo III TF,2017-01-30,150$,['TF'],KNIT,0g,"['LEWANDOWSKI,', 'ROONEY']"
+Nike,Hypervenom Phelon III,2017-01-30,75$,['FG'],SYNTHETIC,0g,"['LEWANDOWSKI,', 'ROONEY']"
+Nike,Hypervenom Phatal III DF,2017-01-30,170$,['FG'],SYNTHETIC,0g,"['LEWANDOWSKI,', 'ROONEY']"
+Nike,Hypervenom Phade III,2017-01-30,55$,['FG'],SYNTHETIC,0g,"['LEWANDOWSKI,', 'ROONEY']"
+Nike,Mercurial Superfly Women's,2017-01-30,275$,['FG'],KNIT,200g,[None]
+Nike,Magista Obra Women's,2017-01-30,275$,['FG'],KNIT,205g,[None]
+Nike,Hypervenom Phantom III DF,2017-02-13,300$,['FG'],"KANGAROO,",0g,"['LEWANDOWSKI,', 'ROONEY']"
+Nike,Hypervenom Phantom III,2017-02-13,250$,['FG'],"KANGAROO,",0g,"['LEWANDOWSKI,', 'ROONEY']"
+Nike,Mercurial Vapor XI,2016-08-16,230$,"['FG', 'SG']",SYNTHETIC,200g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Mercurial Vapor XI,2016-11-25,230$,"['FG', 'SG']",SYNTHETIC,200g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Mercurial Vapor XI,2016-10-03,230$,"['FG', 'SG']",SYNTHETIC,200g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Mercurial Vapor XI,2017-01-30,230$,"['FG', 'SG']",SYNTHETIC,200g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Mercurial Vapor XI Tech Craft 2.0,2016-11-17,230$,['FG'],CALF,200g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Magista Opus II,2016-10-03,230$,"['AG', 'FG', 'SG']",SYNTHETIC,0g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,Magista Opus II,2016-11-25,230$,"['AG', 'FG', 'SG']",SYNTHETIC,0g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,Magista Opus II Tech Craft 2.0,2016-11-17,230$,['FG'],SYNTHETIC,0g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,Hypervenom Phinish II Tech Craft 2.0,2016-11-17,200$,"['AG', 'FG']",SYNTHETIC,0g,"['NEYMAR,', 'WELBECK,', 'LEWANDOWSKI,', 'ISCO']"
+Nike,Hypervenom Phinish II,2016-11-25,200$,"['AG', 'FG']",SYNTHETIC,0g,"['NEYMAR,', 'WELBECK,', 'LEWANDOWSKI,', 'ISCO']"
+Nike,Hypervenom Phinish II NJR X JORDAN,2016-10-12,230$,['FG'],SYNTHETIC,0g,"['NEYMAR,', 'WELBECK,', 'LEWANDOWSKI,', 'ISCO']"
+Nike,Hypervenom Phinish II NJR X JORDAN,2016-07-01,230$,['FG'],SYNTHETIC,0g,"['NEYMAR,', 'WELBECK,', 'LEWANDOWSKI,', 'ISCO']"
+Nike,Hypervenom Phinish II Neymar,2016-02-02,230$,['FG'],SYNTHETIC,0g,['NEYMAR']
+Adidas,Ace 17+ PureControl UCL Dragon,2017-02-13,330$,['FG'],KNIT,0g,"['OZIL,', 'POGBA,', 'DELE ALLI']"
+Adidas,X 16+ PureChaos UCL Dragon,2017-02-13,330$,['FG'],SYNTHETIC,193g,"['THOMAS MULLER,', 'GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA,', 'MARCELO,', 'DAVID VILLA']"
+Adidas,Ace Tango 17+ PureControl UCL Dragon Indoor,2017-02-13,210$,['IN'],KNIT,0g,"['OZIL,', 'POGBA,', 'DELE ALLI']"
+Puma,evoSPEED 17 SL S Bellerin,2017-01-31,200$,['FG'],SYNTHETIC,0g,['BELLERIN']
+Puma,evoSPEED 17 SL S Aguero,2017-04-01,200$,['FG'],SYNTHETIC,0g,['AGUERO']
+Nike,MagistaX Finale II IC,2017-01-30,100$,['IN'],SYNTHETIC,0g,[None]
+Nike,MagistaX Finale II TF,2017-01-30,100$,['TF'],SYNTHETIC,0g,[None]
+Nike,TiempoX Proximo IC,2017-01-30,140$,['IN'],KANGAROO,0g,[None]
+Nike,TiempoX Proximo TF,2017-01-30,140$,['TF'],KANGAROO,0g,[None]
+Nike,Tiempo Legacy II,2017-01-30,120$,"['AG', 'FG', 'HG']",CALF,0g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Nike,Tiempo Mystic V,2017-01-30,85$,['FG'],COW,0g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Nike,Magista Orden II,2017-01-30,170$,"['AG', 'FG', 'SG']",SYNTHETIC,0g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,MercurialX Proximo II TF,2017-01-30,175$,['TF'],KNIT,0g,[None]
+Under,Armour Spotlight,2017-02-01,220$,['FG'],SYNTHETIC,0g,['MEMPHIS']
+Under,Armour Spotlight DL,2017-02-01,60$,['FG'],SYNTHETIC,0g,['MEMPHIS']
+Under,Armour Spotlight BL,2017-02-01,150$,['FG'],SYNTHETIC,0g,['MEMPHIS']
+Under,Armour ClutchFit Force 3.0,2017-02-01,220$,['FG'],SYNTHETIC,225g,['MEMPHIS DEPAY']
+Under,Armour CoreSpeed Force 3.0,2017-02-01,120$,['FG'],SYNTHETIC,0g,['MEMPHIS DEPAY']
+Under,Armour CF Force 3.0,2017-02-01,65$,['FG'],SYNTHETIC,0g,['MEMPHIS DEPAY']
+Under,Armour CF Force 3.0 Indoor,2017-02-01,65$,['IN'],SYNTHETIC,0g,[None]
+Under,Armour CF Force 3.0 Turf,2017-02-01,65$,['TF'],SYNTHETIC,0g,[None]
+Under,Armour Spotlight Indoor,2017-02-01,60$,['IN'],SYNTHETIC,0g,['MEMPHIS']
+Under,Armour Spotlight Turf,2017-02-01,60$,['TF'],SYNTHETIC,0g,['MEMPHIS']
+Adidas,X 16.1,2017-03-01,200$,"['FG', 'SG']",SYNTHETIC,198g,"['THOMAS MULLER,', 'GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA,', 'MARCELO,', 'DAVID VILLA']"
+Adidas,Ace 17+ PureControl,2017-03-01,300$,['FG'],KNIT,0g,"['OZIL,', 'POGBA,', 'DELE ALLI']"
+Adidas,X 17.1,2017-08-01,200$,"['AG', 'FG', 'SG']",SYNTHETIC,0g,[None]
+Adidas,Predator Mania 2017,2017-05-01,0$,['FG'],SYNTHETIC,0g,['BECKHAM']
+Nike,Hypervenom Phantom III DF,2017-02-20,300$,['FG'],"KANGAROO,",0g,"['LEWANDOWSKI,', 'ROONEY']"
+Nike,Hypervenom Phantom III,2017-02-20,250$,['FG'],"KANGAROO,",0g,"['LEWANDOWSKI,', 'ROONEY']"
+Nike,Mercurial Superfly V NJR10,2017-08-01,350$,"['AG', 'FG', 'SG']",KNIT,0g,['NEYMAR']
+Adidas,Messi 16+ PureAgility,2017-03-31,300$,"['FG', 'SG']",SYNTHETIC,192g,['MESSI']
+Umbro,UX Accuro Pro,2017-02-03,180$,"['FG', 'HG', 'SG']",SYNTHETIC,0g,[None]
+Umbro,UX Accuro Premier,2017-02-03,70$,"['FG', 'HG']",SYNTHETIC,0g,[None]
+Umbro,Velocita III Pro,2017-02-03,170$,"['FG', 'HG', 'SG']",SYNTHETIC,0g,[None]
+Umbro,Velocita III Premier,2017-02-03,75$,"['FG', 'HG']",SYNTHETIC,0g,[None]
+Nike,Magista Obra II,2017-03-26,275$,"['AG', 'FG', 'SG']",SYNTHETIC,0g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Umbro,Medusae Pro,2017-02-03,195$,"['FG', 'HG', 'SG']","KANGAROO,",185g,[None]
+Umbro,Medusae Premier,2017-02-03,70$,"['FG', 'HG']","COW,",0g,[None]
+Umbro,Medusae Club,2017-02-03,40$,"['FG', 'HG']",SYNTHETIC,0g,[None]
+Umbro,Medusae Club TF,2017-02-03,40$,['TF'],SYNTHETIC,0g,[None]
+Adidas,Ace 17+ PureControl Champagne Gold,2017-05-01,300$,['FG'],KNIT,0g,"['OZIL,', 'POGBA,', 'DELE ALLI']"
+Nike,Tiempo Legend VI,2017-03-14,210$,"['AG', 'FG', 'HG', 'SG']",KANGAROO,244g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+NewBalance,Furon 2.0 Pro,2017-02-09,200$,"['AG', 'FG', 'SG']",SYNTHETIC,0g,['MEMPHIS']
+NewBalance,Furon 2.0 Mid Level,2017-02-09,130$,"['AG', 'FG', 'SG']",SYNTHETIC,0g,['MEMPHIS']
+NewBalance,Furon 2.0 Dispatch,2017-02-09,75$,"['AG', 'FG']",SYNTHETIC,0g,['MEMPHIS']
+NewBalance,Visaro 2.0 Pro,2017-02-09,200$,"['AG', 'FG', 'SG']",SYNTHETIC,0g,['VINCENT KOMPANY']
+NewBalance,Visaro 2.0 Mid Level,2017-02-09,130$,"['AG', 'FG', 'SG']",SYNTHETIC,0g,['VINCENT KOMPANY']
+NewBalance,Visaro 2.0 Control,2017-02-09,75$,"['AG', 'FG']",SYNTHETIC,0g,['VINCENT KOMPANY']
+NewBalance,Visaro 2.0 K-Leather,2017-02-09,210$,"['AG', 'FG', 'SG']",KANGAROO,0g,['VINCENT KOMPANY']
+NewBalance,Furon 2.0 Dispatch TF,2017-02-09,75$,['TF'],SYNTHETIC,0g,[None]
+NewBalance,Furon 2.0 Dispatch IN,2017-02-09,75$,['IN'],SYNTHETIC,0g,[None]
+NewBalance,Visaro 2.0 Control TF,2017-02-09,75$,['TF'],SYNTHETIC,0g,[None]
+NewBalance,Visaro 2.0 Control IN,2017-02-09,75$,['IN'],SYNTHETIC,0g,[None]
+Nike,Hypervenom Phantom III DF,2017-03-26,250$,"['AG', 'FG', 'SG']",KNIT,0g,"['LEWANDOWSKI,', 'ROONEY']"
+Adidas,X 16+ PureChaos,2017-03-31,300$,"['FG', 'SG']",SYNTHETIC,193g,"['THOMAS MULLER,', 'GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA,', 'MARCELO,', 'DAVID VILLA']"
+Nike,Mercurial Victory VI TF,2017-04-01,80$,['TF'],SYNTHETIC,0g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Tiempo Legend VI,2017-03-14,210$,"['AG', 'FG', 'HG', 'SG']",KANGAROO,244g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Adidas,Ace 17+ PureControl,2017-03-31,300$,"['AG', 'FG', 'SG']",KNIT,0g,"['OZIL,', 'POGBA,', 'DELE ALLI']"
+Adidas,X 16+ PureChaos Champagne Gold,2017-05-01,300$,['FG'],SYNTHETIC,193g,"['THOMAS MULLER,', 'GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA,', 'MARCELO,', 'DAVID VILLA']"
+Adidas,X 16+ PureChaos,2017-03-01,300$,"['FG', 'SG']",SYNTHETIC,193g,"['THOMAS MULLER,', 'GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA,', 'MARCELO,', 'DAVID VILLA']"
+Nike,MagistaX Finale II IC,2017-03-26,100$,['IN'],SYNTHETIC,0g,[None]
+Nike,MagistaX Finale II TF,2017-03-26,100$,['TF'],SYNTHETIC,0g,[None]
+Nike,Mercurial Superfly V,2017-07-01,300$,"['AG', 'FG', 'SG']",KNIT,0g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Mercurial Superfly V,2017-08-01,300$,"['AG', 'FG', 'SG']",KNIT,0g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Mercurial Superfly V,2017-07-01,300$,"['AG', 'FG', 'SG']",KNIT,0g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Adidas,Ace Tango 17+ PureControl Turf,2017-04-15,180$,['TF'],KNIT,0g,"['OZIL,', 'POGBA,', 'DELE ALLI']"
+Nike,Mercurial Veloce III DF,2017-03-26,170$,"['AG', 'FG']",SYNTHETIC,0g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Mercurial Vapor XI,2017-03-26,230$,"['FG', 'SG']",SYNTHETIC,200g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Hypervenom Phatal III DF,2017-02-20,170$,['FG'],SYNTHETIC,0g,"['LEWANDOWSKI,', 'ROONEY']"
+Nike,Hypervenom Phelon III,2017-02-20,75$,['FG'],SYNTHETIC,0g,"['LEWANDOWSKI,', 'ROONEY']"
+Nike,Hypervenom Phade III,2017-02-20,55$,['FG'],SYNTHETIC,0g,"['LEWANDOWSKI,', 'ROONEY']"
+Adidas,Mundial Team,2017-03-14,150$,['TF'],KANGAROO,360g,[None]
+Adidas,Mundial Team,2017-03-14,150$,['TF'],KANGAROO,360g,[None]
+Adidas,Mundial Team Modern Craft,2016-11-15,180$,['TF'],KANGAROO,360g,[None]
+Adidas,Mundial Team Modern Craft,2016-11-15,180$,['TF'],KANGAROO,360g,[None]
+Adidas,Mundial Team,2017-03-14,150$,['TF'],KANGAROO,360g,[None]
+Adidas,Ace 17.1 Primeknit,2017-03-31,200$,['FG'],KNIT,0g,"['OZIL,', 'POGBA,', 'DELE ALLI']"
+Adidas,Ace 17.1 Primeknit,2017-03-01,200$,['FG'],KNIT,0g,"['OZIL,', 'POGBA,', 'DELE ALLI']"
+Adidas,Ace 17.2 Primemesh,2017-03-01,130$,['FG'],SYNTHETIC,0g,"['OZIL,', 'POGBA,', 'DELE ALLI']"
+Adidas,Ace Tango 17+ PureControl Indoor,2017-03-31,180$,['IN'],KNIT,0g,"['OZIL,', 'POGBA,', 'DELE ALLI']"
+Adidas,Ace Tango 17+ PureControl Turf,2017-03-31,180$,['TF'],KNIT,0g,"['OZIL,', 'POGBA,', 'DELE ALLI']"
+Adidas,X Tango 16+ Purechaos Turf,2017-03-31,180$,['TF'],SYNTHETIC,0g,"['GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA']"
+Adidas,X Tango 16.1 Turf,2017-03-01,150$,['TF'],SYNTHETIC,0g,[None]
+Adidas,Copa Tango 17.3 Indoor,2017-03-31,70$,['IN'],COW,0g,[None]
+Adidas,Copa Tango 17.3 Turf,2017-03-31,70$,['TF'],COW,0g,[None]
+Adidas,Ace Tango 17.2 Training,2017-03-31,85$,['ST'],SYNTHETIC,0g,[None]
+Adidas,Ace Tango 17.1 Turf,2017-03-01,130$,['TF'],SYNTHETIC,0g,[None]
+Adidas,X 16.1,2017-03-31,200$,"['FG', 'SG']",SYNTHETIC,198g,"['THOMAS MULLER,', 'GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA,', 'MARCELO,', 'DAVID VILLA']"
+Adidas,Ace Tango 17.1 Training,2017-03-01,130$,['ST'],SYNTHETIC,0g,[None]
+Adidas,Ace 17.3 Primemesh Turf,2017-03-01,90$,['TF'],SYNTHETIC,0g,[None]
+Adidas,X 16.3,2017-03-01,90$,['FG'],SYNTHETIC,0g,"['GARETH BALE,', 'LUIS SUAREZ,', 'ANGEL DI MARIA,', 'KARIM BENZEMA,', 'ARJEN ROBBEN,', 'DIEGO COSTA']"
+Adidas,Ace 17.3 Primemesh,2017-03-01,90$,['FG'],SYNTHETIC,0g,[None]
+Adidas,Copa 17.1,2017-03-31,220$,['FG'],KANGAROO,0g,[None]
+Nike,MagistaX Finale II IC,2017-03-24,100$,['IN'],SYNTHETIC,0g,[None]
+Nike,HypervenomX Proximo III IC,2017-03-20,175$,['IN'],KNIT,0g,"['LEWANDOWSKI,', 'ROONEY']"
+Nike,MercurialX Proximo II TF,2017-03-20,175$,['TF'],KNIT,0g,[None]
+Nike,TiempoX Proximo IC,2017-03-20,140$,['IN'],KANGAROO,0g,[None]
+NewBalance,Furon 2.0 Hydra LE,2017-03-16,240$,['FG'],SYNTHETIC,0g,['MEMPHIS']
+Adidas,X 16.1 Leather,2017-03-31,200$,['FG'],KANGAROO,198g,[None]
+Nike,Mercurial Superfly V SE,2017-03-20,325$,['FG'],KNIT,0g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Magista Obra II SE,2017-03-20,325$,['FG'],SYNTHETIC,0g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,Tiempo Legend VI SE,2017-03-20,275$,['FG'],KANGAROO,244g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Nike,Hypervenom Phantom III DF SE,2017-03-20,350$,['FG'],"KANGAROO,",0g,"['LEWANDOWSKI,', 'ROONEY']"
+Nike,Magista Opus II,2017-03-26,230$,"['AG', 'FG', 'SG']",SYNTHETIC,0g,"['INIESTA,', 'GOTZE,', 'THIAGO SILVA,', 'CABAYE']"
+Nike,Hypervenom Phantom III Women's,2017-03-27,300$,['FG'],KNIT,0g,[None]
+Nike,MercurialX Proximo II IC,2017-03-26,175$,['IN'],KNIT,0g,[None]
+Nike,MercurialX Proximo II TF,2017-03-26,175$,['TF'],KNIT,0g,[None]
+Nike,MercurialX Finale II IC,2017-03-26,100$,['IN'],SYNTHETIC,0g,[None]
+Nike,Mercurial Superfly V,2017-03-26,300$,"['AG', 'FG', 'SG']",KNIT,0g,"['ALEXIS SANCHEZ,', 'DYBALA,', 'MARCHISIO,', 'VIDAL,', 'ROJO,', 'PASTORE']"
+Nike,Tiempo Legend VI,2017-03-26,210$,"['AG', 'FG', 'HG', 'SG']",KANGAROO,244g,"['PIQUE,', 'RAMOS,', 'KOSCIELNY,', 'VARANE,', 'LLORIS,', 'CARVAJAL,', 'BOATENG']"
+Nike,MagistaX Proximo II IC,2017-03-27,175$,['IN'],SYNTHETIC,0g,[None]
+Nike,MagistaX Proximo II TF,2017-03-27,175$,['TF'],SYNTHETIC,0g,[None]
+Nike,Mercurial Superfly Women's,2017-03-27,275$,['FG'],KNIT,200g,[None]

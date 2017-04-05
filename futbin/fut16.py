@@ -41,13 +41,12 @@ starting_time = time.time()
 n_items = 1
 
 # 循环
-i = 17352
 
-for i in range(17352, 18202):
+for i in range(4537, 40000):
 
     #拼接 url, rnd_referer
-    url = 'http://www.futbin.com/17/player/' + str(i)
-    rnd_referer = 'https://www.futbin.com/17/player/' + str(int(random.uniform(1, 18000)))
+    url = 'http://www.futbin.com/16/player/' + str(i)
+    rnd_referer = 'https://www.futbin.com/16/player/' + str(int(random.uniform(1, 18000)))
 
     #headers, cookies
     headers = {'Host' : 'www.futbin.com', 'Connection' : 'keep-alive', 'Cache-Control' : 'max-age=0', 'Upgrade-Insecure-Requests' : '1', 'User-Agent' : 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36', 'Accept' : 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8', 'Referer' : rnd_referer, 'Accept-Encoding' : 'gzip, deflate, sdch, br', 'Accept-Language' : 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4,es;q=0.2,it;q=0.2', 'Cookie' : 'PHPSESSID=ak88ji74deakv5aus67pfb5rg4; gentype=newgen; platform=ps4; 16_field=full_sunny; __cfduid=d7f635baaece73bf1b8bd69c2103449741488253095; xbox=true; ps=true; consoletype=xone; __gads=ID=ef393f4879b78ac2:T=1488270782:S=ALNI_MZRvEAVpZ9K9D-budpzyJBc7nhMgw; cookieconsent_dismissed=yes; lang=en; __token=2998da26f8944aa271d9c27fa4b1308f112d6d69; __tokenId=231017; _ga=GA1.2.279088692.1488253095; sc_is_visitor_unique=rx9767571.1490372702.A13681BA86CB4FBBA57BEC63C5CB60C3.26.19.18.14.11.11.7.5.2'}
@@ -89,31 +88,31 @@ for i in range(17352, 18202):
         DOB = str(z[14])[138:148] # fieldnames[19]
 
         # fieldnames[20:31]
-        h_ps4 = soup.find_all(attrs={"class" : "pgp_ps4_holder"})[0].contents
-        for item in h_ps4:
-            h_ps4.remove('\n')
-        games_ps4 = h_ps4[0].contents[3].string # fieldnames[20]
-        goals_ps4 = h_ps4[1].contents[3].string # fieldnames[23]
-        assists_ps4 = h_ps4[2].contents[3].string # fieldnames[25]
-        yellow_ps4 = h_ps4[3].contents[3].string # fieldnames[27]
-        red_ps4 = h_ps4[4].contents[3].string # fieldnames[29]
+#        h_ps4 = soup.find_all(attrs={"class" : "pgp_ps4_holder"})[0].contents
+#        for item in h_ps4:
+#            h_ps4.remove('\n')
+#        games_ps4 = h_ps4[0].contents[3].string # fieldnames[20]
+#        goals_ps4 = h_ps4[1].contents[3].string # fieldnames[23]
+#        assists_ps4 = h_ps4[2].contents[3].string # fieldnames[25]
+#        yellow_ps4 = h_ps4[3].contents[3].string # fieldnames[27]
+#        red_ps4 = h_ps4[4].contents[3].string # fieldnames[29]
 
-        h_xb1 = soup.find_all(attrs={"class" : "pgp_xb1_holder"})[0].contents
-        for item in h_xb1:
-            h_xb1.remove('\n')
-        games_xb1 = h_xb1[0].contents[3].string # fieldnames[21]
-        goals_xb1 = h_xb1[1].contents[3].string # fieldnames[24]
-        assists_xb1 = h_xb1[2].contents[3].string # fieldnames[26]
-        yellow_xb1 = h_xb1[3].contents[3].string # fieldnames[28]
-        red_xb1 = h_xb1[4].contents[3].string # fieldnames[30]
+#        h_xb1 = soup.find_all(attrs={"class" : "pgp_xb1_holder"})[0].contents
+#        for item in h_xb1:
+#            h_xb1.remove('\n')
+#        games_xb1 = h_xb1[0].contents[3].string # fieldnames[21]
+#        goals_xb1 = h_xb1[1].contents[3].string # fieldnames[24]
+#        assists_xb1 = h_xb1[2].contents[3].string # fieldnames[26]
+#        yellow_xb1 = h_xb1[3].contents[3].string # fieldnames[28]
+#        red_xb1 = h_xb1[4].contents[3].string # fieldnames[30]
 
         # separater purifying
-        games_list =[games_ps4, games_xb1]
-        for ii in range(0, len(games_list)):
-                games_list[ii] = s_purify(list(filter(str.isdigit, games_list[ii])))
+#        games_list =[games_ps4, games_xb1]
+#        for ii in range(0, len(games_list)):
+#                games_list[ii] = s_purify(list(filter(str.isdigit, games_list[ii])))
 
         # sum
-        total_games = int(games_list[0]) + int(games_list[1]) # fieldnames[22]
+#        total_games = int(games_list[0]) + int(games_list[1]) # fieldnames[22]
 
         # get full_attributes, fieldnames[31:65]
         fa_soup = soup.select('span.statlabel')
@@ -187,13 +186,13 @@ for i in range(17352, 18202):
                     specialities_list.append(sp_soup[t].contents[-1].strip())
 
         # 写文件
-        f = open('fut17_full.csv', 'a')
+        f = open('fut16_full.csv', 'a')
         fieldnames = ['url_token', 'Player Name', 'Instant Price', 'Full Name', 'Rating', 'Club', 'Position', 'Nation', 'League', 'Skills', 'Weak Foot', 'Preferred Foot', 'Height', 'Weight', 'Revision', 'Defensive Workrate', 'Attacking Workrate', 'Added On', 'Origin', 'Date of Birth', 'Games PS4', 'Games Xbox 1', 'Total Games', 'Goals Avr. PS4', 'Goals Avr. Xbox 1', 'Assists Avr. PS4', 'Assists Avr. Xbox 1', 'Yellow Avr. PS4', 'Yellow Avr. Xbox 1', 'Red Avr. PS4', 'Red Avr. Xbox 1', 'Pace', 'Acceleration',  'Sprint Speed', 'Shooting', 'Positioning', 'Finishing', 'Shot Power', 'Long Shots', 'Volleys', 'Penalties', 'Dribbling', 'Agility', 'Balance', 'Reactions', 'Ball control', 'Dribbling', 'Defending', 'Interceptions', 'Heading Accuracy', 'Marking', 'Standing Tackle', 'Sliding Tackle', 'Passing', 'Vision', 'Crossing', 'FK Accuracy', 'Short Passing', 'Long Passing', 'Curve', 'Physicality', 'Jumping', 'Stamina', 'Strength', 'Aggression', 'n_traits', 'Traits', 'n_specialities', 'Specialities',]
         # writeheader
         # f_csv = csv.DictWriter(f, fieldnames)
         # f_csv.writeheader()
 
-        rows_dict = [{'url_token': url_token, 'Player Name' : player_name, 'Instant Price' : str(instant_price),'Full Name' : str(full_name), 'Rating' : str(rating), 'Club' : str(club), 'Position' : str(position), 'Nation' : str(nation), 'League' : str(league), 'Skills' : str(skills), 'Weak Foot' : str(weak_foot), 'Preferred Foot' : str(foot), 'Height' : str(height), 'Weight' : str(weight), 'Revision' : str(revision), 'Defensive Workrate' : str(d_workrate), 'Attacking Workrate' : str(a_workrate), 'Added On' : str(added_on), 'Origin' : str(origin), 'Date of Birth' : str(DOB), 'Games PS4' : str(games_ps4), 'Games Xbox 1' : str(games_xb1), 'Total Games' : str(total_games), 'Goals Avr. PS4' : str(goals_ps4), 'Goals Avr. Xbox 1' : str(goals_xb1), 'Assists Avr. PS4' : str(assists_ps4), 'Assists Avr. Xbox 1' : str(assists_xb1), 'Yellow Avr. PS4' : str(yellow_ps4), 'Yellow Avr. Xbox 1' : str(yellow_xb1), 'Red Avr. PS4' : str(red_ps4), 'Red Avr. Xbox 1' : str(red_xb1), 'Pace' : general_attributes['Pace'], 'Acceleration' : pace['Acceleration'],  'Sprint Speed' : pace['Sprint Speed'], 'Shooting' : general_attributes['Shooting'], 'Positioning' : shooting_list['Positioning'], 'Finishing' : shooting_list['Finishing'], 'Shot Power' : shooting_list['Shot Power'], 'Long Shots' : shooting_list['Long Shots'], 'Volleys' : shooting_list['Volleys'], 'Penalties' : shooting_list['Penalties'], 'Dribbling' : general_attributes['Dribbling'], 'Agility' : dribbling_list['Agility'], 'Balance' : dribbling_list['Balance'], 'Reactions' : dribbling_list['Reactions'], 'Ball control' : dribbling_list['Ball control'], 'Dribbling' : dribbling_list['Dribbling'], 'Defending' : general_attributes['Defending'], 'Interceptions' : defending_list['Interceptions'], 'Heading Accuracy' : defending_list['Heading Accuracy'], 'Marking' : defending_list['Marking'], 'Standing Tackle' : defending_list['Standing Tackle'], 'Sliding Tackle': defending_list['Sliding Tackle'], 'Passing' : general_attributes['Passing'], 'Vision' : passing_list['Vision'], 'Crossing' : passing_list['Crossing'], 'FK Accuracy' : passing_list['FK Accuracy'], 'Short Passing' : passing_list['Short Passing'], 'Long Passing' : passing_list['Long Passing'], 'Curve' : passing_list['Curve'], 'Physicality' : general_attributes['Physicality'], 'Jumping' : physicality_list['Jumping'], 'Stamina' : physicality_list['Stamina'], 'Strength' : physicality_list['Strength'], 'Aggression' : physicality_list['Aggression'], 'n_traits' : n_traits, 'Traits' : traits_list, 'n_specialities' : n_specialities, 'Specialities' : specialities_list,}]
+        rows_dict = [{'url_token': url_token, 'Player Name' : player_name, 'Instant Price' : str(instant_price),'Full Name' : str(full_name), 'Rating' : str(rating), 'Club' : str(club), 'Position' : str(position), 'Nation' : str(nation), 'League' : str(league), 'Skills' : str(skills), 'Weak Foot' : str(weak_foot), 'Preferred Foot' : str(foot), 'Height' : str(height), 'Weight' : str(weight), 'Revision' : str(revision), 'Defensive Workrate' : str(d_workrate), 'Attacking Workrate' : str(a_workrate), 'Added On' : str(added_on), 'Origin' : str(origin), 'Date of Birth' : str(DOB), 'Pace' : general_attributes['Pace'], 'Acceleration' : pace['Acceleration'],  'Sprint Speed' : pace['Sprint Speed'], 'Shooting' : general_attributes['Shooting'], 'Positioning' : shooting_list['Positioning'], 'Finishing' : shooting_list['Finishing'], 'Shot Power' : shooting_list['Shot Power'], 'Long Shots' : shooting_list['Long Shots'], 'Volleys' : shooting_list['Volleys'], 'Penalties' : shooting_list['Penalties'], 'Dribbling' : general_attributes['Dribbling'], 'Agility' : dribbling_list['Agility'], 'Balance' : dribbling_list['Balance'], 'Reactions' : dribbling_list['Reactions'], 'Ball control' : dribbling_list['Ball control'], 'Dribbling' : dribbling_list['Dribbling'], 'Defending' : general_attributes['Defending'], 'Interceptions' : defending_list['Interceptions'], 'Heading Accuracy' : defending_list['Heading Accuracy'], 'Marking' : defending_list['Marking'], 'Standing Tackle' : defending_list['Standing Tackle'], 'Sliding Tackle': defending_list['Sliding Tackle'], 'Passing' : general_attributes['Passing'], 'Vision' : passing_list['Vision'], 'Crossing' : passing_list['Crossing'], 'FK Accuracy' : passing_list['FK Accuracy'], 'Short Passing' : passing_list['Short Passing'], 'Long Passing' : passing_list['Long Passing'], 'Curve' : passing_list['Curve'], 'Physicality' : general_attributes['Physicality'], 'Jumping' : physicality_list['Jumping'], 'Stamina' : physicality_list['Stamina'], 'Strength' : physicality_list['Strength'], 'Aggression' : physicality_list['Aggression'], 'n_traits' : n_traits, 'Traits' : traits_list, 'n_specialities' : n_specialities, 'Specialities' : specialities_list,}]
         #rows = [player_name, str(instant_price), str(rating), str(club), str(position), str(nation), str(league), str(skills), str(weak_foot), str(foot), str(height), str(weight), str(revision), str(d_workrate), str(a_workrate), str(added_on), str(origin), str(games_ps4), str(games_xb1), str(games), str(goals_ps4), str(goals_xb1), str(assists_ps4), str(assists_xb1), str(yellow_ps4), str(yellow_xb1), str(red_ps4), str(red_xb1), str(DOB)]
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writerows(rows_dict)

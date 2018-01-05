@@ -41,7 +41,6 @@ starting_time = time.time()
 n_items = 1
 
 # 循环
-i = 1
 
 for i in range(1, 18202):
 

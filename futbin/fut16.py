@@ -42,7 +42,7 @@ n_items = 1
 
 # 循环
 
-for i in range(4537, 40000):
+for i in range(33855, 40000):
 
     #拼接 url, rnd_referer
     url = 'http://www.futbin.com/16/player/' + str(i)
@@ -206,8 +206,8 @@ for i in range(4537, 40000):
         n_items += 1
 
         # It seems it's always around 10 requests/min.
-        # rnd_time_interval = random.uniform(0.5, 1)
-        # time.sleep(rnd_time_interval)
+        rnd_time_interval = random.uniform(0.5, 1)
+        time.sleep(rnd_time_interval)
 
         # A best guess
         gc.collect()

@@ -42,7 +42,7 @@ n_items = 1
 
 # 循环
 
-for i in range(4537, 40000):
+for i in range(1, 99999):
 
     #拼接 url, rnd_referer
     url = 'http://www.futbin.com/16/player/' + str(i)

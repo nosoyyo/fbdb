@@ -18,6 +18,8 @@
 
 # new in 0.8: set up for FIFA18
 # tbd/new in 0.8: optimized with goalkeepers
+# new in 0.8: deal with players w/ or wo/ intl_rep
+# tbd/new in 0.8: reconstruct the player attribute part with json
 
 # tbd: close connection every 1hr(if necessary)
 # tbd: counter of done works
@@ -77,19 +79,36 @@ for i in range(1, 16010):
         league = z[3].a.string # fieldnames[8]
         skills = z[4].next_element # fieldnames[9]
         weak_foot = z[5].next_element # fieldnames[10]
-        intl_rep = z[6].text.strip()
-        foot = z[7].string.strip() # fieldnames[11]
-        height = z[8].string[:3] # fieldnames[12]
-        weight = z[9].string.strip() # fieldnames[13]
-        revision = z[10].string # fieldnames[14]
-        d_workrate = z[11].string # fieldnames[15]
-        a_workrate = z[12].string # fieldnames[16]
-        added_on = z[13].string # fieldnames[17]
-        if len(list(z[14])) > 2:
-            origin = z[14].a.string.strip()
+
+        # check if intl_rep exists
+        if len(z) == 15:
+
+            intl_rep = z[6].text.strip()
+            foot = z[7].string.strip() # fieldnames[11]
+            height = z[8].string[:3] # fieldnames[12]
+            weight = z[9].string.strip() # fieldnames[13]
+            revision = z[10].string # fieldnames[14]
+            d_workrate = z[11].string # fieldnames[15]
+            a_workrate = z[12].string # fieldnames[16]
+            added_on = z[13].string # fieldnames[17]
+            if len(list(z[14])) > 2:
+                origin = z[14].a.string.strip()
+            else:
+                origin = z[14].string.strip()
+            DOB = str(z[15])[138:148] # fieldnames[19]
         else:
-            origin = z[14].string.strip()
-        DOB = str(z[15])[138:148] # fieldnames[19]
+            foot = z[6].string.strip() # fieldnames[11]
+            height = z[7].string[:3] # fieldnames[12]
+            weight = z[8].string.strip() # fieldnames[13]
+            revision = z[9].string # fieldnames[14]
+            d_workrate = z[10].string # fieldnames[15]
+            a_workrate = z[11].string # fieldnames[16]
+            added_on = z[12].string # fieldnames[17]
+            if len(list(z[13])) > 2:
+                origin = z[13].a.string.strip()
+            else:
+                origin = z[13].string.strip()
+            DOB = str(z[14])[138:148] # fieldnames[19]
 
         # fieldnames[20:31] //added top_chem
         info_ps4 = soup.find_all(attrs={"class" : "ps4-pgp-data"})
@@ -217,7 +236,7 @@ for i in range(1, 16010):
         print('Total ' + str(n_items) + ' players in ' + str(running_time) + ' mins. ' + str(avr_players) + ' plrs/min avr.')
         n_items += 1
 
-        # It seems it's always around 10 requests/min.
+        # It seems it's always around 20 players/min.
         # rnd_time_interval = random.uniform(0.5, 1)
         # time.sleep(rnd_time_interval)
 

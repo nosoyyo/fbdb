@@ -21,13 +21,13 @@
 # new in 0.8: deal with players w/ or wo/ intl_rep
 
 # new in 0.9: AJAX, json & MongoDB
+# new in 0.91: GUI, 1hr snap, update if player exists 
 
-# tbd: check if 'full name' exists before write into MongoDB
-# tbd: close connection every 1hr(if necessary)
 # tbd: counter of done works
 # tbd: wechat me for any news good or bad
 # tbd: email me when break
-# tbd: randomly scrap a player from pool
+
+# tbd: 1.0, fully functional and automatic
 
 __author__ = 'nosoyyo'
 import requests
@@ -35,7 +35,7 @@ from bs4 import BeautifulSoup
 import gc
 import csv
 import json
-import time
+import timeit
 import random
 import pymongo
 
@@ -49,19 +49,28 @@ def onlyNum(s):
             pass
     return tmp
 
-starting_time = time.time()
+started_at = timeit.default_timer()
 n_items = 1
+duration = 0
 
 # main
 
-for i in range(2086, 16010):
+for i in range(5020, 16010):
 
     #拼接 url, rnd_referer
     url = 'http://www.futbin.com/18/player/' + str(i)
     rnd_referer = 'https://www.futbin.com/18/player/' + str(int(random.uniform(1, 16000)))
 
     #headers, cookies
-    headers = {'accept' : 'text/html', 'accept-encoding' : 'gzip', 'cache-control' : 'max-age=0', 'cookie' : 'PHPSESSID=8352d14773681915ba9f9fca29404062; platform=ps4; _ga=GA1.2.1931620846.1515132876; _gid=GA1.2.193899811.1515132876; xbox=true; ps=true; pc=true; OX_plg=pm; __gads=ID=17b3c1a533b9ce27:T=1515132916:S=ALNI_MbkNMV175g7e6ObdaLnT6HhZFUZDw; _dm_sync=true; cookieconsent_dismissed=yes; OX_sd=8; sc_is_visitor_unique=rx9767571.1515140976.7158A1C2145D4F80CD39A3074984500A.2.2.1.1.1.1.1.1.1', 'upgrade-insecure-requests' : '1', 'user-agent' : 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36'}
+    # take a snap every 1hr
+    if duration % 60 > 55:
+#            rnd_time_interval = random.uniform(0.5, 1)
+        time.sleep(600)
+        #add connection close into headers
+        headers = {"Connection" : "close", 'accept' : 'text/html', 'accept-encoding' : 'gzip', 'cache-control' : 'max-age=0', 'cookie' : 'PHPSESSID=8352d14773681915ba9f9fca29404062; platform=ps4; _ga=GA1.2.1931620846.1515132876; _gid=GA1.2.193899811.1515132876; xbox=true; ps=true; pc=true; OX_plg=pm; __gads=ID=17b3c1a533b9ce27:T=1515132916:S=ALNI_MbkNMV175g7e6ObdaLnT6HhZFUZDw; _dm_sync=true; cookieconsent_dismissed=yes; OX_sd=8; sc_is_visitor_unique=rx9767571.1515140976.7158A1C2145D4F80CD39A3074984500A.2.2.1.1.1.1.1.1.1', 'upgrade-insecure-requests' : '1', 'user-agent' : 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36', "Referer" : rnd_referer}
+    else:
+        headers = {'accept' : 'text/html', 'accept-encoding' : 'gzip', 'cache-control' : 'max-age=0', 'cookie' : 'PHPSESSID=8352d14773681915ba9f9fca29404062; platform=ps4; _ga=GA1.2.1931620846.1515132876; _gid=GA1.2.193899811.1515132876; xbox=true; ps=true; pc=true; OX_plg=pm; __gads=ID=17b3c1a533b9ce27:T=1515132916:S=ALNI_MbkNMV175g7e6ObdaLnT6HhZFUZDw; _dm_sync=true; cookieconsent_dismissed=yes; OX_sd=8; sc_is_visitor_unique=rx9767571.1515140976.7158A1C2145D4F80CD39A3074984500A.2.2.1.1.1.1.1.1.1', 'upgrade-insecure-requests' : '1', 'user-agent' : 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36', "Referer" : rnd_referer}
+    
     cookies = {'16_field' : 'full_sunny ', '__cfduid' : 'd7f635baaece73bf1b8bd69c2103449741488253095 ', '__gads' : 'ID=ef393f4879b78ac2:T=1488270782:S=ALNI_MZRvEAVpZ9K9D-budpzyJBc7nhMgw ', '__token' : '2998da26f8944aa271d9c27fa4b1308f112d6d69', '__tokenId' : '231017', '_ga' : 'GA1.2.279088692.1488253095', 'consoletype' : 'xone', 'cookieconsent_dismissed' : 'yes', 'gentype' : 'newgen', 'lang' : 'en', 'platform' : 'ps4', 'ps' : 'true', 'sc_is_visitor_unique' : 'rx9767571.1490446108.A13681BA86CB4FBBA57BEC63C5CB60C3.27.20.19.15.12.12.7.5.2   ', 'xbox' : 'true'}
 
     #get the html, get it souped
@@ -148,25 +157,62 @@ for i in range(2086, 16010):
             total_games = 0
 
         # get player attributes json
-        pajson = soup.select('div#player_stats_json')        
+        pajson = soup.select('div#player_stats_json')
+
 
         # update'em in MongoDB
         client = pymongo.MongoClient("localhost", 27017)
         db = client.fut18
         players = db["players"]
-        player = {'player_name' : player_name, 'full_name' : full_name, 'rating' : rating, 'club' : club, 'position' : position, 'nation' : nation, 'league' : league, 'skills' : skills, 'weak_foot' : weak_foot, 'intl_rep' : intl_rep, 'foot' : foot, 'height' : height, 'weight' : weight, 'revision' : revision, 'd_workrate' : d_workrate, 'a_workrate' : a_workrate, 'added_on' : added_on, 'games_ps4' : games_ps4, 'games_xb1' : games_xb1, 'total_games' : total_games}
-        players.insert(player)
+        # check if player alerady exists
+        if full_name in str(players.find_one({"full_name" : full_name})):
+            players.update({"full_name": full_name}, {"$set":{'player_name' : player_name, 'rating' : rating, 'club' : club, 'position' : position, 'nation' : nation, 'league' : league, 'skills' : skills, 'weak_foot' : weak_foot, 'intl_rep' : intl_rep, 'foot' : foot, 'height' : height, 'weight' : weight, 'revision' : revision, 'd_workrate' : d_workrate, 'a_workrate' : a_workrate, 'added_on' : added_on, 'games_ps4' : games_ps4, 'games_xb1' : games_xb1, 'total_games' : total_games}})
+        else:
+            player = {'player_name' : player_name, 'full_name' : full_name, 'rating' : rating, 'club' : club, 'position' : position, 'nation' : nation, 'league' : league, 'skills' : skills, 'weak_foot' : weak_foot, 'intl_rep' : intl_rep, 'foot' : foot, 'height' : height, 'weight' : weight, 'revision' : revision, 'd_workrate' : d_workrate, 'a_workrate' : a_workrate, 'added_on' : added_on, 'games_ps4' : games_ps4, 'games_xb1' : games_xb1, 'total_games' : total_games}
+            players.insert(player)
 
         # 打印 + 状态 + 分析
-        running_time = (time.time() - starting_time) / 60
-        avr_players = n_items / float(running_time)
-        print("We've got #" + str(url_token) + " " + player_name + " done." + '\n' + url + "\n" + "referer:" + rnd_referer + '\n')
-        print('Total ' + str(n_items) + ' players in ' + str(running_time) + ' mins. ' + str(avr_players) + ' plrs/min avr.')
-        n_items += 1
+        duration = (timeit.default_timer() - started_at) / 60
+        avr_players = n_items / float(duration)
 
-        # It seems it's always around 20 players/min.
-        # rnd_time_interval = random.uniform(0.5, 1)
-        # time.sleep(rnd_time_interval)
+        #GUI
+        print("""┌──────────────────────────────────────────────────────────────────────────────┐""")
+        print("""│                                                                              │""")
+        print("""│                 ___          __       _     __                               │""")
+        print("""│               /'___\        /\ \__  /' \  /'_ `\                             │""")
+        print("""│              /\ \__/  __  __\ \ ,_\/\_, \/\ \L\ \                  fut       │""")
+        print("""│              \ \ ,__\/\ \/\ \\ \ \/\/_/\ \/_> _ <_                  18        │""")
+        print("""│               \ \ \_/\ \ \_\ \\ \ \_  \ \ \/\ \L\ \                           │""")
+        print("""│                \ \_\  \ \____/ \ \__\  \ \_\ \____/              nosoyyo     │""")
+        print("""│                 \/_/   \/___/   \/__/   \/_/\/___/                           │""")
+        print("""│                                                                              │""")
+        print("""│                                                                              │""")
+        print("""│                                                                              │""")
+        print("""│                                                                              │""")
+
+        # auto-center-align
+        print("│                                  We've got                                   │")
+        player_done = "#" + str(url_token) + " " + player_name + " done."
+        acl = round((78 - len(player_done)) / 2)
+        acr = 78 - len(player_done) - acl
+        print("│" + " " * acl + player_done + " " * acr + "│")
+        acl = round((78 - len(url)) /2)
+        acr = 78 - len(url) - acl
+        print("│" + " " * acl + url + " " * acr + "│")
+        acl = round((78 - len("Referer: " + rnd_referer)) /2)
+        acr = 78 - len("Referer: " + rnd_referer) - acl
+        print("│" + " " * acl + "Referer: " + rnd_referer + " " * acr + "│")
+        print("""│                                                                              │""")
+        print("""│                                                                              │""")
+        print("├──────────────────────────────────────────────────────────────────────────────┤")
+
+        # simple stats
+        print('│ Total ' + str(n_items) + ' players in ' + str(round(duration, 2)) + ' mins. ' + str(round(avr_players, 2)) + ' plrs/min avr.')
+        percentage = round(int(url_token) / 16010 * 100, 2)
+        print('│ ' + str(percentage) + '%')
+        print("└──────────────────────────────────────────────────────────────────────────────┘")
+
+        n_items += 1
 
         # A best guess
         gc.collect()
